@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "A module that shows a picture with parts from the key pictures. Tags: num-pad, picture, pictionary",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "pictionaryModule",
   "Name": "Pictionary",
   "Origin": "Mods",

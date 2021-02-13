@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Communicate five phrases, designed to be confusingly similar, to the expert, then press and release a button at specific times. Tags: black-and-white, screen, phrase, digit, number-display, 7-segment-display, up-button, down-button, 2-buttons",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "RegularCrazyTalkModule",
   "Name": "Regular Crazy Talk",
   "Origin": "Mods",

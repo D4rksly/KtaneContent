@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Identify a sound played from a tape deck. Requires audio. Tags: symbols, play, right-arrow, hash, pound, ampersand, asterisk",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "Listening",
   "Name": "Listening",
   "Origin": "Mods",

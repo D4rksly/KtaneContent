@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Click the correct symbols in the right order until you're ready to submit. Tags: 14-buttons, symbols, display",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "JuckAlchemy",
   "Name": "Alchemy",
   "Origin": "Mods",

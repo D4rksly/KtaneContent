@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Listen to various parts of a melody, create your own parts, and arrange them in a specific way. Tags: 29-buttons, sounds, music, notes, keys, melody, harmony",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "melodySequencer",
   "Name": "Melody Sequencer",
   "Origin": "Mods",

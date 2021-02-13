@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the button to activate the module's timer, then press it again when the timer displays a certain time. Tags: red-button, display",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "GSTellMeWhen",
   "Name": "Tell Me When",
   "Origin": "Mods",

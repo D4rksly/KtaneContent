@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Point the arrow a certain way based on the displays. Tags: green-button, red-button, clock, screens, number, arrow-buttons",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "widdershins",
   "Name": "Widdershins",
   "Origin": "Mods",

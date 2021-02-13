@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the correct sequence of directions in this Maze lookalike. Tags: 2-green-circles, red-triangle, white-square, 6x6-grid, up-arrow, left-arrow, right-arrow, down-arrow",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "NotMaze",
   "Name": "Not Maze",
   "Origin": "Mods",

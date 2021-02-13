@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Blocks other modules until a sufficient amount of resets.",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "TheOverflow",
   "Name": "The Overflow",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Listen to a message in an answering machine and dial a number based off that message. Tags: sound, phone-number, listen",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "AnsweringCanBeFun",
   "Name": "Answering Can Be Fun",
   "Origin": "Mods",

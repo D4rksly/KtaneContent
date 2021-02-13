@@ -2,6 +2,7 @@
   "Author": "Riverbui",
   "Compatibility": "Compatible",
   "Description": "Three widgets including a manufacture label showing the date the bomb was designed, a display that shows a date the bomb thinks it is, and a display that shows a generated time of day. Tags: edgework, day, time, multiple",
+  "License": "OpenSource",
   "ModuleID": "DayTimeWidget",
   "Name": "Date of Manufacture",
   "Origin": "Mods",

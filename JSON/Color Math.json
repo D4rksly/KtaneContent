@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Translate colors into numbers, make a calculation, then translate back into colors. Tags: 8-circles, letter-display, submit",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "colormath",
   "Name": "Color Math",
   "Origin": "Mods",

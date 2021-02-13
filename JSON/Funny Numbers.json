@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Determine if a number is funny or not based off of rules of what is and isn't funny. Tags: green-frame, brown-background, two-buttons, 5-displays",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "FunnyNumbers",
   "Name": "Funny Numbers",
   "Origin": "Mods",

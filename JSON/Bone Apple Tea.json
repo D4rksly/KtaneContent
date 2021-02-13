@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Submit a pair of character based on a pair of slightly messed-up phrases. Tags: 4-screens, 5-buttons, phrases, letters",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "boneAppleTea",
   "Name": "Bone Apple Tea",
   "Origin": "Mods",

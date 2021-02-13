@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "A module based on exploration. Tags: planets, sun, fake-strike",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "nomai",
   "Name": "Nomai",
   "Origin": "Mods",

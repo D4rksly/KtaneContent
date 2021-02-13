@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Gather your resources and defeat the Ender Dragon! Tags: craft, fight, gather",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "kataMinecraftSurvival",
   "Name": "Minecraft Survival",
   "Origin": "Mods",

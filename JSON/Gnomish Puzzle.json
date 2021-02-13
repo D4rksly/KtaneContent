@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Arrange the symbols in the correct order using 3 types of movement. Tags: Levers, LEDs, Gnome",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "qkGnomishPuzzle",
   "Name": "Gnomish Puzzle",
   "Origin": "Mods",

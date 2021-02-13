@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Decipher the message written on the dials and submit the encrypted response, using pigpen cipher. Tags: keyboard, magenta-text, red-button",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "pigpenCycle",
   "Name": "Pigpen Cycle",
   "Origin": "Mods",

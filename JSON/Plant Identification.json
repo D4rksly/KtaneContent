@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Submit the exact name of the plant being shown in the module three times. Tags: plants, mystery, PvZ2, keyboard",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "PlantIdentification",
   "Name": "Plant Identification",
   "Origin": "Mods",

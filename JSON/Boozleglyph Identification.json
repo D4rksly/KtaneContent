@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryHard",
   "Description": "Identify a complex symbol. Tags: 2-buttons, arrow-buttons, symbol, screen",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "boozleglyphIdentification",
   "Name": "Boozleglyph Identification",
   "Origin": "Mods",

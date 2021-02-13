@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Access the Matrix to find a glitch in order to determine which pill to take and when. Tags: Red pill, blue pill, code, moving screen, lever, switch",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "matrix",
   "Name": "The Matrix",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Find the chosen sequences based on how they mix via RGB color addition. Tags: red, green, blue, ovals, elipse",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "RGBSequences",
   "Name": "RGB Sequences",
   "Origin": "Mods",

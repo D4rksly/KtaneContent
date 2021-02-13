@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Find the hidden values by tilting the module. Then remove the appropriate hinge at the correct time. Tags: grey plate, single digit",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "theHiddenValue",
   "Name": "The Hidden Value",
   "Origin": "Mods",

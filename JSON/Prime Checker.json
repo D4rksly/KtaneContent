@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Determine whether a number is prime or not. Tags: number, prime, not-prime, 2-buttons",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "PrimeChecker",
   "Name": "Prime Checker",
   "Origin": "Mods",

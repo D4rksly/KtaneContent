@@ -5,6 +5,7 @@
   "Description": "Answer yes/no questions on whether to vent gas or detonate the bomb. Tags: hazard, y, n, needy, timer",
   "DisplayName": "Needy Vent Gas",
   "ExpertDifficulty": "VeryEasy",
+  "License": "Restricted",
   "ModuleID": "NeedyVentGas",
   "Name": "Venting Gas",
   "Origin": "Vanilla",

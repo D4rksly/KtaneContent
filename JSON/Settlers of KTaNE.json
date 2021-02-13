@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Play a simpler version of Settlers of Catan. Tags: Settlers, Catan",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "SettlersOfKTaNE",
   "Name": "Settlers of KTaNE",
   "Origin": "Mods",

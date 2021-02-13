@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Figure out what color to set the button to, and when you should submit it, based off of bomb edgework. Tags: colors, button, edgework, selectors",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "colorCycleButton",
   "Name": "Color-Cycle Button",
   "Origin": "Mods",

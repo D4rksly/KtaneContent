@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Decipher letters to get a clue for a word, and then submit that word. Tags: trumpets, letters, 1-button",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "challengeAndContact",
   "Name": "Challenge & Contact",
   "Origin": "Mods",

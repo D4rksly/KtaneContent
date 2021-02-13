@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Follow the instructions that are split amongst five colors. Tags: colors, words, five",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "StandardCrazyTalk",
   "Name": "Standard Crazy Talk",
   "Origin": "Mods",

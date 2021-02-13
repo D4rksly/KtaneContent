@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Tap the button according to a display and the prime factors of the bomb time. Tags: green button, display",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "primeTime",
   "Name": "Prime Time",
   "Origin": "Mods",

@@ -83,6 +83,7 @@
     "Zoo"
   ],
   "IsSemiBoss": true,
+  "License": "OpenSource",
   "ModuleID": "TechSupport",
   "Name": "Tech Support",
   "Origin": "Mods",

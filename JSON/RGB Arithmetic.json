@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Apply a binary operator to two grids of RGB colours that may be rotated, reflected, and/or inverted.",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "rgbArithmetic",
   "Name": "RGB Arithmetic",
   "Origin": "Mods",

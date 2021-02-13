@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Combine pieces of bomb information with boolean operators. Tags: submit, binary, 8-arrows, 1, 0",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "BitOps",
   "Name": "Bitwise Operations",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Determine the capo position from edgework and enter three correct chords on the fretboard. Tags: music, play, notes",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "guitarChords",
   "Name": "Guitar Chords",
   "Origin": "Mods",

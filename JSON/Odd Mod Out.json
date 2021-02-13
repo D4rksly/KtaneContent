@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the button corresponding to the unique image displayed. Tags: black-and-white, 3-displays, 3-buttons",
   "ExpertDifficulty": "VeryEasy",
+  "License": "Restricted",
   "ModuleID": "lgndOddModOut",
   "Name": "Odd Mod Out",
   "Origin": "Mods",

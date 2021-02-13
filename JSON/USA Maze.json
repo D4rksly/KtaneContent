@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Navigate a maze constructed from the 50 states of the United States. Tags: shapes, two-letter-codes, 8-buttons, 3-displays",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "USA",
   "Name": "USA Maze",
   "Origin": "Mods",

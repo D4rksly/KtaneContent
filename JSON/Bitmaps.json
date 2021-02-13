@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the right button based on the pixels in an 8×8 bitmap. Tags: grid, color, 1-2-3-4, 4-sections",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "BitmapsModule",
   "Name": "Bitmaps",
   "Origin": "Mods",

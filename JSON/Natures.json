@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Re-breed for the correct nature to solve. Tags: creatures, screen, five-lines, two-buttons, re-breed, battle",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "mcdNatures",
   "Name": "Natures",
   "Origin": "Mods",

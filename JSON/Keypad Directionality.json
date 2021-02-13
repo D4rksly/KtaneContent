@@ -6,6 +6,7 @@
   "ExpertDifficulty": "Medium",
   "Ignore": [ "+FullBoss" ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "KeypadDirectionality",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Keypad Directionality",

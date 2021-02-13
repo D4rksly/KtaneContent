@@ -177,6 +177,7 @@
     "Wonder Cipher"
   ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "organizationModule",
   "MysteryModule": "RequiresAutoSolve",
   "Name": "Organization",

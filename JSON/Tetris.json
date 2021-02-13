@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryHard",
   "Description": "Place Tetris pieces on the board without getting yourself walled in. Tags: needy, hazard, timer, left-arrow, right-arrow, rotate-clockwise, rotate-anticlockwise, down-arrow",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "spwizTetris",
   "Name": "Tetris",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Press four complex words, all starting with T, in a certain order. Tags: 4-words, long-words, led",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "tWords",
   "Name": "T-Words",
   "Origin": "Mods",

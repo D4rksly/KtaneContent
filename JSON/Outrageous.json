@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Use silhouettes of mythical creatures and a cipher to determine which numbers and directions to submit. Tags: tiger, stripes, LED",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "outrageous",
   "Name": "Outrageous",
   "Origin": "Mods",

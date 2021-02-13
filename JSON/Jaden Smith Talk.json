@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Determine if Jaden Smith is the origin of a quote or not. Tags: quote, green-button, red-button",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "JadenSmithTalk",
   "Name": "Jaden Smith Talk",
   "Origin": "Mods",

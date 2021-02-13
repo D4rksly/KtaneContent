@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Identify a level background from Space Invaders Extreme. Tags: screens, left, right, gold",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "GSSpaceInvadersExtreme",
   "Name": "Space Invaders Extreme",
   "Origin": "Mods",

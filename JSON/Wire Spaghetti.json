@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Cut up to 21 wires in a particular order. Tags: colors, colours, left, right",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "wireSpaghetti",
   "Name": "Wire Spaghetti",
   "Origin": "Mods",

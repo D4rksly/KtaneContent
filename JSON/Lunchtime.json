@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Get your boss a lunch or he will explode you. Tags: lunch, boss, food",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "lunchtime",
   "MysteryModule": "MustNotBeHidden",
   "Name": "Lunchtime",

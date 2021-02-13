@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Figure out the correct state for each LED using the initial state and color. Tags: 4-leds, 1-button, colors",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "threeLEDsModule",
   "Name": "3 LEDs",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Make Module Rick multiply based on the last digit of the serial number",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "ModuleRick",
   "Name": "Module Rick",
   "Origin": "Mods",

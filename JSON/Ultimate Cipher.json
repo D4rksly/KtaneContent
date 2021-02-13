@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "A 10 step module using the previous color ciphers and inversions. Tags: rainbow, qwerty-keyboard",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "ultimateCipher",
   "Name": "Ultimate Cipher",
   "Origin": "Mods",

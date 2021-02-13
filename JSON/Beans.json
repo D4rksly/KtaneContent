@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Eat three beans according to their colours and wobbliness. Tags: beans, orange-background",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "beans",
   "Name": "Beans",
   "Origin": "Mods",

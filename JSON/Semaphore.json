@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Decipher the flag signals for letters and numbers used in naval communication. Tags: white, blue, left-arrow, right-arrow, ok",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "Semaphore",
   "Name": "Semaphore",
   "Origin": "Mods",

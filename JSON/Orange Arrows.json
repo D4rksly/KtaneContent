@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Determine which orange directional arrows to press from a flashing sequence. Tags: orange, arrows, sequence, display, 4-buttons",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "orangeArrowsModule",
   "Name": "Orange Arrows",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press 3 alien glyphs at the right time. Tags: black-background, 3-symbols, green, alien.",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "xelDcode",
   "Name": "D-CODE",
   "Origin": "Mods",

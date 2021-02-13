@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Drink the non-poisoned chalice based on an arbitrary flowchart. Tags: cups",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "Chalices",
   "Name": "Chalices",
   "Origin": "Mods",

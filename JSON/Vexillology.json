@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Follow the steps and submit the right flag. Tags: flags, countries, buttons",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "vexillology",
   "Name": "Vexillology",
   "Origin": "Mods",

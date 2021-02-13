@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Combine elements to create life-forms, but observe the weather conditions. Tags: day, number, fire, earth, water, air",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "CreationModule",
   "Name": "Creation",
   "Origin": "Mods",

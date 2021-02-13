@@ -5,6 +5,7 @@
   "Description": "Remember the icons placed on the belt. Tags: memory, kim, knob",
   "DisplayName": "Kim's Game",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "KimsGame",
   "Name": "Kim's Game",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Convert values from three dice into two dice. Inspired from the Three Indistinguishable Dice Problem. Tags: dice, three-stage, encrypted",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "EncryptedDice",
   "Name": "Encrypted Dice",
   "Origin": "Mods",

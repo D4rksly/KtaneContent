@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Convert hexadecimal numbers to decimal. Tags: +1, +10, +100, clr, hazard, needy, timer",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "EternitySDec",
   "Name": "Hex To Decimal",
   "Origin": "Mods",

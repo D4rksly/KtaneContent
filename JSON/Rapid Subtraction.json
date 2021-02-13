@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Keep subtracting the given value by the correct amount until the value is a single digit. The correct amount is determined by the streak the needy it is on and some edgework.",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "rapidSubtraction",
   "Name": "Rapid Subtraction",
   "Origin": "Mods",

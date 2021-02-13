@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Figure out the correct bomb configuration and the destination for the Steel Crate Games's \"special package\". Tags: bomb, post, sending, machine",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "bombDiffusal",
   "Name": "Bomb Diffusal",
   "Origin": "Mods",

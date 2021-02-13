@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Solve a variant of the Mahjong Solitaire game in which the expert must tell you which tiles match up. Tags: mahjong, tiles, chinese, plum, orchid, chrysanthemum, bamboo",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "MahjongModule",
   "Name": "Mahjong",
   "Origin": "Mods",

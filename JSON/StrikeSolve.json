@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press a button based on edgework. Tags: 2 buttons",
   "ExpertDifficulty": "VeryEasy",
+  "License": "Restricted",
   "ModuleID": "strikeSolve",
   "Name": "Strike/Solve",
   "Origin": "Mods",

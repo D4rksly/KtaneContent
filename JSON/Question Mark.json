@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Release the module at a specific time according to the images displayed. Tags: yellow-background, question-mark, powerup, mushroom, mario",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "Questionmark",
   "Name": "Question Mark",
   "Origin": "Mods",

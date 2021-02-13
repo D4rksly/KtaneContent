@@ -1,6 +1,6 @@
 {
   "Compatibility": "Compatible",
-  "Contributors": { 
+  "Contributors": {
     "Developer": [ "Red Penguin" ],
     "Maintainer": [ "eXish" ],
     "Manual": [ "Danny7007" ]
@@ -8,6 +8,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "egg. Tags: egg",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "bigegg",
   "Name": "egg",
   "Origin": "Mods",

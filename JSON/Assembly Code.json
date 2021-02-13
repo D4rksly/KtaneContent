@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Use the arrows to find the description of a \"code\". Tags: 3-displays, 2-buttons, code",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "assemblyCode",
   "Name": "Assembly Code",
   "Origin": "Mods",

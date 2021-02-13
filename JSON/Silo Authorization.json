@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Receive an encrypted message and respond with your own. Tags: 2-lights, 14-displays, wargames",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "siloAuthorization",
   "Name": "Silo Authorization",
   "Origin": "Mods",

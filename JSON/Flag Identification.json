@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Identify one of the 195 country flags. Tags: buttons, display, needy",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "needyFlagIdentification",
   "Name": "Flag Identification",
   "Origin": "Mods",

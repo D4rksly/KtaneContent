@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Perform three symmetry operations on a square. Inspired by 3blue1brown's videos on group theory. Tags: squares, black-module, 3blue1brown.",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "xelSymmetriesOfASquare",
   "Name": "Symmetries Of A Square",
   "Origin": "Mods",

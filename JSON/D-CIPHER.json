@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Decipher a message that is encrypted with two ciphers and written in an alphabet of strange glyphs. Tags: black-background, green, sybmols, alien",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "xelDcipher",
   "Name": "D-CIPHER",
   "Origin": "Mods",

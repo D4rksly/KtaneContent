@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Time many, many button presses to the beat with a small margin of error.",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "rhythmTest",
   "Name": "Rhythm Test",
   "Origin": "Mods",

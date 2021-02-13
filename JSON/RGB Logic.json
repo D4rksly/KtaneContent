@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Apply a boolean operator to two grids of RGB colours",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "rgbLogic",
   "Name": "RGB Logic",
   "Origin": "Mods",

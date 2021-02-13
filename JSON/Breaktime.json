@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press the correct button according to the table.",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "breaktime",
   "Name": "Breaktime",
   "Origin": "Mods",

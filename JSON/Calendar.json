@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Find out what specific holiday is marked in a calendar. Tags: left, right, month, color",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "calendar",
   "Name": "Calendar",
   "Origin": "Mods",

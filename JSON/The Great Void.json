@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryHard",
   "Description": "Read encrypted numbers and colors, then input a sequence of holds and releases. Tags: Black, Dark, Empty, Sphere",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "greatVoid",
   "Name": "The Great Void",
   "Origin": "Mods",

@@ -2,6 +2,7 @@
   "Author": "Steel Crate Games",
   "Compatibility": "Compatible",
   "Description": "Indicator lights labelled with sets of letters. Tags: edgework, casing, light",
+  "License": "Restricted",
   "ModuleID": "IndicatorWidget",
   "Name": "Indicators",
   "Origin": "Vanilla",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Push one of four buttons based on a screen with confusing phrases and arithmetic. Tags: screen, display, phrase, text, number, label, 4-buttons, orange",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "placeholderTalk",
   "Name": "Placeholder Talk",
   "Origin": "Mods",

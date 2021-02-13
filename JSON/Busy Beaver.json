@@ -8,6 +8,7 @@
   "ExpertDifficulty": "Medium",
   "Ignore": [ "+FullBoss" ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "busyBeaver",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Busy Beaver",

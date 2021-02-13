@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Do a Vigenère Cipher based on the information given on the module and the serial number. Tags: submit-button, alphabet, numbers, letters",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "vigenereCipher",
   "Name": "Vigenère Cipher",
   "Origin": "Mods",

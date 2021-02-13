@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Do simple math in different bases (radixes). Tags: base, 10-buttons, 3-displays, numbers, plus, equals",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "bases",
   "Name": "Bases",
   "Origin": "Mods",

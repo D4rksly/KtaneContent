@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press all the numbers that are NumberWang. Tags: 12-buttons, screen, board",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "kikiNumberWang",
   "Name": "NumberWang",
   "Origin": "Mods",

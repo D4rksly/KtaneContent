@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Choose the goblet that is not poisoned based on their colors and shapes. Inspired by Orson Scott Card’s novel, “Ender’s Game”. Tags: goblet, drink, poison, key-table, 2-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "giantsDrink",
   "Name": "The Giant's Drink",
   "Origin": "Mods",

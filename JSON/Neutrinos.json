@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "A module about Neutrino Oscillations... Tags: math, science, calculate, buttons, screen, planets",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "neutrinos",
   "Name": "Neutrinos",
   "Origin": "Mods",

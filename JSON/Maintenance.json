@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Figure out information about a car before determining what maintenance is required. Tags: fix, number-plate, 2-lights, handwriting, left-arrow, right-arrow",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "maintenance",
   "Name": "Maintenance",
   "Origin": "Mods",

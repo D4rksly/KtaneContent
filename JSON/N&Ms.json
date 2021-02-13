@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press the correct button consisting of N’s and M’s. Tags: 5-buttons, n-and-ms, letter-n, letter-m",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "NandMs",
   "Name": "N&Ms",
   "Origin": "Mods",

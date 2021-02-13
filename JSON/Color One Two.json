@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press the button with the correct number on it based on two LEDs. Tags: one, two, two-buttons, two-leds",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "colorOneTwo",
   "Name": "Color One Two",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Enter a code in binary, octal, decimal or hexadecimal. Tags: error, send, blue, 17-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "errorCodes",
   "Name": "Error Codes",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Press the button when the correct LED is lit, seven times. Tags: 14-leds, red-button",
   "ExpertDifficulty": "VeryEasy",
+  "License": "Restricted",
   "ModuleID": "lgndReflex",
   "Name": "Reflex",
   "Origin": "Mods",

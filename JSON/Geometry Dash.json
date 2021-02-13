@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Find out the correct cube to press based on the objects from a clip of a Geometry Dash level. Tags: geometry, clip, math",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "geometryDashModule",
   "Name": "Geometry Dash",
   "Origin": "Mods",

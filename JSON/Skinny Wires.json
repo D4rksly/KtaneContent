@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Cut the correct wire based on a set of rules. Tags: five-wires, wires, ports, hazard-material",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "skinnyWires",
   "Name": "Skinny Wires",
   "Origin": "Mods",

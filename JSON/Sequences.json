@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Figure out the formula for a mathematical sequence. Tags: numbers, math, 2-displays, 15-buttons",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "sequencesModule",
   "Name": "Sequences",
   "Origin": "Mods",

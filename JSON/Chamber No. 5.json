@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Select the correct letter based on the word from the chorus of Mambo No. 5",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "ChamberNoFive",
   "Name": "Chamber No. 5",
   "Origin": "Mods",

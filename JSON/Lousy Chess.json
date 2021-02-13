@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Predict the moves of an unfinished lousy chess engine game and finish it. Tags: chess, engine",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "lousyChess",
   "Name": "Lousy Chess",
   "Origin": "Mods",

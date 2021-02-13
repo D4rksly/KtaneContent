@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Decipher the message written on the dials and submit the encrypted response, using affine cipher. Tags: keyboard, yellow-text, red-button",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "affineCycle",
   "Name": "Affine Cycle",
   "Origin": "Mods",

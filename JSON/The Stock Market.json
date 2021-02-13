@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Calculate company values and invest in the most profitable. Tags: up-green-triangle, down-red-triangle, plus, minus, left-arrow, right-arrow, pixelated",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "stockMarket",
   "Name": "The Stock Market",
   "Origin": "Mods",

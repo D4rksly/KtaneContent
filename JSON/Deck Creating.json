@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Learn how to create a deck from a specific game. Tags: hearthstone, gathering, pokémon, pokemon",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "kataDeckCreating",
   "Name": "Deck Creating",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Work out which two sounds are playing at once and obtain a binary pattern from them to submit. Tags: listening, sound, audio, xor",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "doubleListening",
   "Name": "Double Listening",
   "Origin": "Mods",

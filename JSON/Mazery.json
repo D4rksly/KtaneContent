@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Construct a maze of colors and navigate your way to three specific nodes. Tags: Maze, Colors, Venn",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "Mazery",
   "Name": "Mazery",
   "Origin": "Mods",

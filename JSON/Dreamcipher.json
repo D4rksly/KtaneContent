@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Decrypt a decoy-laden string of glyphs back into a word. Tags: circular, enter, X, O, arrows, blue, glyphs",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "ksmDreamcipher",
   "Name": "Dreamcipher",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Take note of the symbols that are cycling on the screens, flip a switch, then reconstruct what the symbols would have been at a specific cycle. Tags: 7-segment-display, 8-digits, image, picture, rocker-switch",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "SymbolCycleModule",
   "Name": "Symbol Cycle",
   "Origin": "Mods",

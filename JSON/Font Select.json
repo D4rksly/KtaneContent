@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Figure out the font and the phrase to solve the module. Tags: left-arrow, right-arrow, s-button",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "FontSelect",
   "Name": "Font Select",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Apply the rules of the cellular automaton commonly known as “Conway’s Game of Life” to a set amount of generations. Tags: 6x8-grid, submit, reset, number-display, iterations",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "LifeIteration",
   "Name": "Life Iteration",
   "Origin": "Mods",

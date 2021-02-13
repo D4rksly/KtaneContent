@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Trace the execution of a program in an esoteric instruction set. Tags: 2-buttons, screen, digits",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "int##",
   "Name": "int##",
   "Origin": "Mods",

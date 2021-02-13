@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "You're telling me bombs now connect to the internet? Tags: maths, 1-button, fruit",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "remotemath",
   "Name": "Remote Math",
   "Origin": "Mods",

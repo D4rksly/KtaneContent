@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Put all eyes into their desired states. Tags: colored-module, eye",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "StareModule",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "The Stare",

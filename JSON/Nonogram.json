@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Solve a traditional pen-and-paper logic puzzle involving filling in a black-and-white bitmap. Tags: 5x5 grid, submit, 3-buttons, 5-colors, 10-colors",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "NonogramModule",
   "Name": "Nonogram",
   "Origin": "Mods",

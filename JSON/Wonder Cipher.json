@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Take a message and translate it to another message with base conversion. Tags: cipher, keyboard, display",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "WonderCipher",
   "Name": "Wonder Cipher",
   "Origin": "Mods",

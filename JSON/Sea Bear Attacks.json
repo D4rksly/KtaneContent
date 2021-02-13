@@ -5,6 +5,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Find the correct action to press each activation otherwise you will get attacked by a sea bear. Tags: sea-bear, warning, spongebob",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "seaBearAttacksModule",
   "Name": "Sea Bear Attacks",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Follow certain rules based on the colors to submit the right combination in each stage. Tags: 10-buttons, red, green, blue, rgb, stage-light, submit",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "TenButtonColorCode",
   "Name": "Ten-Button Color Code",
   "Origin": "Mods",

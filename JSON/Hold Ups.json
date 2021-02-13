@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Use 3-5 correct moves to down opponents, and use the correct action during a \"Hold Up\". Tags: Persona, Shadow, All-Out, Attack",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "KritHoldUps",
   "Name": "Hold Ups",
   "Origin": "Mods",

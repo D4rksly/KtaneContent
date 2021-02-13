@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Select the correct block based on the missing block and tables. Tags: 4-blocks, mario",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "xelBrownBricks",
   "Name": "Brown Bricks",
   "Origin": "Mods",

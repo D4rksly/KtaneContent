@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Cycle through the options for each button and submit the correct combination. Tags: 4-buttons, display, submit",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "keypadCombinations",
   "Name": "Keypad Combinations",
   "Origin": "Mods",

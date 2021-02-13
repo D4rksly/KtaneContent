@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Go through a table of conditions relating to button colors and labels to determine the correct button to press within 35 seconds. Tags: colored-buttons, symbols, timer, hazard, needy",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "rapidButtons",
   "Name": "Rapid Buttons",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Set the correct alarm based on its characteristics. Tags: clock, black, 5-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "digitalClock",
   "Name": "Digital Clock",
   "Origin": "Mods",

@@ -1,6 +1,6 @@
 {
   "Compatibility": "Compatible",
-  "Contributors": { 
+  "Contributors": {
     "Developer": [ "DVD" ],
     "Maintainer": [ "eXish" ],
     "Manual": [ "Kusane" ]
@@ -8,6 +8,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press the correct button at each stage based on words sounding confusingly similar to the NATO Phonetic Alphabet. Tags: 4-buttons, display, words, letters, 6-squares",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "Detonato",
   "Name": "DetoNATO",
   "Origin": "Mods",

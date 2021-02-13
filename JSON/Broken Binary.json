@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Unscramble a 5 letter word being shown in binary on the buttons and submit it. Tags: 5-buttons, 3-stages, code",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "BrokenBinary",
   "Name": "Broken Binary",
   "Origin": "Mods",

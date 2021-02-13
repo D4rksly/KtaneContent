@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Take the 4 symbols displayed, convert them to unicode and enter them in the correct order using a set of rules. Tags: Dark-blue module, symbols, 1-9, a-f",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "UnicodeModule",
   "Name": "Unicode",
   "Origin": "Mods",

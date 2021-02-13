@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Play a game of modified Blackjack. Tags: bet, hit, stand, check",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "KritBlackjack",
   "Name": "Blackjack",
   "Origin": "Mods",

@@ -7,6 +7,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Find your position in a maze that is in the first dimension. Tags: 3-buttons, led, maze",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "OneDimensionalMaze",
   "Name": "1D Maze",
   "Origin": "Mods",

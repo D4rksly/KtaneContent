@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Convert a number from either standard- to balanced or balanced- to standard ternary. Tags: base 3, balanced ternary",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "qkTernaryConverter",
   "Name": "Ternary Converter",
   "Origin": "Mods",

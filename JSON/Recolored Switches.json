@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Flip the switches 10 times based on the lit LEDs. Tags: 5-switches, 10-leds, red, green, blue, orange, purple, turquoise, black, white",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "R4YRecoloredSwitches",
   "Name": "Recolored Switches",
   "Origin": "Mods",

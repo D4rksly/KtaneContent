@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Find the godfather of the mafia and hang them. Tags: noose, gallows, hangman, 8-people, stickman",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "MafiaModule",
   "MysteryModule": "MustNotBeKey",
   "Name": "Mafia",

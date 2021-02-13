@@ -5,6 +5,7 @@
   "Description": "Perform two-digit calculations quickly. Tags: needy, timer, equation, numpad, minus, dash, equals",
   "DisplayName": "Needy Math",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "Needy Math",
   "Name": "Math",
   "Origin": "Mods",

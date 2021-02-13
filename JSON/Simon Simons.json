@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Solve a 16-button Simon Says. Tags: simon, says, simons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "simonSimons",
   "Name": "Simon Simons",
   "Origin": "Mods",

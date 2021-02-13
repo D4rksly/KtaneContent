@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Use the given chord to determine a new chord to submit. Tags: music, notes, key",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "chordProgressions",
   "MysteryModule": "MustNotBeHidden",
   "Name": "Chord Progressions",

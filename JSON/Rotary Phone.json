@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Repeated three-digit addition that requires an expert to keep track of the previous result. Tags: hazard, needy, timer, 3-digits, dial, 0-to-9",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "NeedyKnobV2",
   "Name": "Rotary Phone",
   "Origin": "Mods",

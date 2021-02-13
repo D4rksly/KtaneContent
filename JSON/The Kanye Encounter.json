@@ -1,14 +1,16 @@
 {
-  "Contributors": {
-    "Developer": [
-      "Deaf"
-    ],
-    "Manual": [ "Kanye West", "Danny7007" ]
-  },
   "Compatibility": "Compatible",
+  "Contributors": {
+    "Developer": [ "Deaf" ],
+    "Manual": [
+      "Kanye West",
+      "Danny7007"
+    ]
+  },
   "DefuserDifficulty": "VeryEasy",
   "Description": "Give Kanye food",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "TheKanyeEncounter",
   "Name": "The Kanye Encounter",
   "Origin": "Mods",

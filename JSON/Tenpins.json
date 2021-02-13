@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Press the bowling ball at valid times determined by pins that employ additive color mixing. Tags: bowling, pins, lane, alley, 1-button",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "tenpins",
   "Name": "Tenpins",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Do simple math based on rapidly cycling numbers. Tags: submit, 3-screens, 4-arrows, digits",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "QuickArithmetic",
   "Name": "Quick Arithmetic",
   "Origin": "Mods",

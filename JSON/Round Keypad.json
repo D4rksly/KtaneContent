@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Find the module’s symbols in the manual, then press all the symbols that aren’t in the correct column. Tags: circle, 8-segments, wedge",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "KeypadV2",
   "Name": "Round Keypad",
   "Origin": "Mods",

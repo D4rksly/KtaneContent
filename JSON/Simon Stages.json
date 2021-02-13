@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Submit a new color sequence based on the set of flashes and indicator color given. Based off of Simon's Stages. Tags: 10 buttons, indicator, lights",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "simonStages",
   "Name": "Simon Stages",
   "Origin": "Mods",

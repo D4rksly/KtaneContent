@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press the button that corresponds to the same number as the screen. The buttons will show different types of edgework. Tags: 4-buttons, number, edgework",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "ReversedEdgework",
   "Name": "Reversed Edgework",
   "Origin": "Mods",

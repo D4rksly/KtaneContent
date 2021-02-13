@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Do four math problems using a different numeral system. Tags: graph-paper, lines, yellow-button",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "inupiaqNumerals",
   "Name": "Iñupiaq Numerals",
   "Origin": "Mods",

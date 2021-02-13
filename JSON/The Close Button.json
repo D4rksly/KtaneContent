@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Determine the correct close button to press that is located on a grid. Tags: close, popup, application, windows",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "TheCloseButton",
   "Name": "The Close Button",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Listen to commands that Simon says, and ignore all others. Tags: 4-buttons, screen",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "ksmSimonLitSays",
   "Name": "Simon Literally Says",
   "Origin": "Mods",

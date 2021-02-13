@@ -6,6 +6,7 @@
   "ExpertDifficulty": "Easy",
   "Ignore": [ "+FullBoss" ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "forgetItNot",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Forget It Not",

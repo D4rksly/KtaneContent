@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Find a word that is hidden in a 6×6 jungle of letters backwards, forwards or diagonally, while avoiding the many decoy words also present in the grid. Tags: 6x6-grid, green-on-black",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "WordSearchModule",
   "Name": "Word Search",
   "Origin": "Mods",

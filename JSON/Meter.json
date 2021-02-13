@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "There once was a module called meter, with poetry lines for the reader. Find the meter and the feet (the rhythm and the beat). No shoes and no rulers (use neither). Tags: poem, 2-display, 2-button",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "meter",
   "Name": "Meter",
   "Origin": "Mods",

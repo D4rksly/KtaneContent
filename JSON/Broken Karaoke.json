@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Identify the song a broken karaoke machine is playing. Tags: red, 10-blanks, 1-button",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "xelBrokenKaraoke",
   "Name": "Broken Karaoke",
   "Origin": "Mods",

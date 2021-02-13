@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Eat three beans according to which beans refer to which. Tags: beans, brown-background",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "rottenBeans",
   "Name": "Rotten Beans",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Decode bandzleglyphs and play some musical notes. Tags: Bamboozled, Trumpet, 6-Buttons, 4-LEDs",
   "ExpertDifficulty": "Medium",
+  "License": "Restricted",
   "ModuleID": "bandboozledAgain",
   "Name": "Bandboozled Again",
   "Origin": "Mods",

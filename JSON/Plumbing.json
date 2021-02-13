@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Connect specific locations with a contiguous set of pipes with no leaks. Tags: colors, red, green, yellow, blue, check, red-module",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "MazeV2",
   "Name": "Plumbing",
   "Origin": "Mods",

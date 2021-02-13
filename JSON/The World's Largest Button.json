@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Press and release a giant button at certain times and listen to the sounds the button makes. Tags: large, button, audio",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "WorldsLargestButton",
   "Name": "The World's Largest Button",
   "Origin": "Mods",

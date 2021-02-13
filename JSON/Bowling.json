@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Determine the angle and position you will provide based on the color of the pins and the edgework. Tags: bowling, pins, edgework",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "Bowling",
   "Name": "Bowling",
   "Origin": "Mods",

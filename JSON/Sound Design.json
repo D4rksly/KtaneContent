@@ -11,6 +11,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Recreate a sound by listening to an audio clip, turning dials, and selecting waveforms. Tags: sound, 7-buttons, 4-dials",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "soundDesign",
   "Name": "Sound Design",
   "Origin": "Mods",

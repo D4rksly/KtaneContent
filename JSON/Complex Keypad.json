@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the 9 keys with various foreign symbols in the correct order. Tags: symbols, greek-letters, cyrillic, 9-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "complexKeypad",
   "Name": "Complex Keypad",
   "Origin": "Mods",

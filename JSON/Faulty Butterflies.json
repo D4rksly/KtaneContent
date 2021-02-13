@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Press six butterflies in order based on their names, while only seeing their silhouettes. Tags: beige-module, butterflies, magenta, pink, broken",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "xelFaultyButterflies",
   "Name": "Faulty Butterflies",
   "Origin": "Mods",

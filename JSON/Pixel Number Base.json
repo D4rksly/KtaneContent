@@ -8,6 +8,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Convert a base 65366 number written as a series of bitmaps to hexidecimal. Tags: reset, 16-buttons, bitmap, pixel",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "PixelNumberBase",
   "Name": "Pixel Number Base",
   "Origin": "Mods",

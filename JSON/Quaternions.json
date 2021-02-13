@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Construct two quaternions and enter a piece of information about their product. Tags: brown-background, colored-keypad, clr-neg, submit, display, equation, ijk",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "quaternions",
   "Name": "Quaternions",
   "Origin": "Mods",

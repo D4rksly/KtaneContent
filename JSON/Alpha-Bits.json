@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Use the alphanumeric results of encoded binary operations to figure out your original letters. Tags: binary, letters, numbers, arrows, 3-buttons, gray",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "alphaBits",
   "Name": "Alpha-Bits",
   "Origin": "Mods",

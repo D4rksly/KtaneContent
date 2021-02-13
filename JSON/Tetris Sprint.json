@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Clear an amount of lines as fast as possible in a game of tetris. Tags: tetris, score, soundtrack",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "tetrisSprint",
   "Name": "Tetris Sprint",
   "Origin": "Mods",

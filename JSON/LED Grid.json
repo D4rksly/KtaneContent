@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Press four buttons in the correct order in response to an array of LEDs of various colors. Tags: a, b, c, d, 3x3-grid",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "ledGrid",
   "Name": "LED Grid",
   "Origin": "Mods",

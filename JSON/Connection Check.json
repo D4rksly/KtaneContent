@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Determine the presence or absence of connections between nodes in a graph structure. Tags: check, red, green, 4-pairs-of-numbers",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "graphModule",
   "Name": "Connection Check",
   "Origin": "Mods",

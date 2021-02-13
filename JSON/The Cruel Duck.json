@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Determine a duck's personality, then approach it and touch a part of it. Also, pelicans. Tags: duck, pelican, quack, curtains",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "theCruelDuck",
   "MysteryModule": "MustNotBeHidden",
   "Name": "The Cruel Duck",

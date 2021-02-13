@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Identify the location of a pearl under one of three shuffled cups. Tags: purple-background, 3-cups, 1-button, go",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "shellGame",
   "Name": "Shell Game",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Perform bitwise operations based on colored texts. Tags: 5-buttons, letter-m, letter-n, status-light-bottom-right",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "MandNs",
   "Name": "M&Ns",
   "Origin": "Mods",

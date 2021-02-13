@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Enter an ever-increasing number across five stages in response to module colors. Tags: clear, submit, digit-display, 10-digits, 12-buttons, 5-leds",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "accumulation",
   "Name": "Accumulation",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Return the correct number to the Gatekeeper to solve the module. Tags: custom-background, easy, numbers, letters, counting",
   "ExpertDifficulty": "VeryEasy",
+  "License": "Restricted",
   "ModuleID": "gatekeeper",
   "Name": "Gatekeeper",
   "Origin": "Mods",

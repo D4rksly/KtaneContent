@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Let's test your knowledge about some shortcuts.",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "shortcuts",
   "Name": "Shortcuts",
   "Origin": "Mods",

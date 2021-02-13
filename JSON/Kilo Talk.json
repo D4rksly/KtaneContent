@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Convert the weight shown on the module from one unit to another. Tags: screens, number, grey-button",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "KiloTalk",
   "Name": "Kilo Talk",
   "Origin": "Mods",

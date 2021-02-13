@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "A 3 step module using different ciphers. Tags: orange, qwerty-keyboard",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "orangeCipher",
   "Name": "Orange Cipher",
   "Origin": "Mods",

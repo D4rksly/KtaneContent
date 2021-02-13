@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Navigate a maze that is filled with phrases akin to the letter K. Tags: phrase, circle, four-arrows",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "KMazeyTalk",
   "Name": "KayMazey Talk",
   "Origin": "Mods",

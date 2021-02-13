@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Press six butterflies in order based on their names. Tags: beige-module, butterflies",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "xelButterflies",
   "Name": "Butterflies",
   "Origin": "Mods",

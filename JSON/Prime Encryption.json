@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Calculate the two prime factors of the encryption code. tags: twelve-buttons, black-background, screen",
   "ExpertDifficulty": "VeryHard",
+  "License": "Restricted",
   "ModuleID": "primeEncryption",
   "Name": "Prime Encryption",
   "Origin": "Mods",

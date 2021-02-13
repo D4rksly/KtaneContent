@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Select pairs of stacks which add up to the number on the display. Tags: screen, 6-stacks, 7-numbers",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "blockStacks",
   "Name": "Block Stacks",
   "Origin": "Mods",

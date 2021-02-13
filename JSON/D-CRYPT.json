@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Decipher 5 alien glyphs to form a word, then repeat a word back in the glyph alphabet. Tags: black-background, green, symbols, alien",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "xelDcrypt",
   "Name": "D-CRYPT",
   "Origin": "Mods",

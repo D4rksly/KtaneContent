@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Use the modules on the bomb to figure out where the treasure is buried. Tags: island, key-modules, arrows",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "treasureHunt",
   "MysteryModule": "MustNotBeKey",
   "Name": "Treasure Hunt",

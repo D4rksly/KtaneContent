@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Depending on the color of the buttons, solve the module using that color's mechanic. 7 buttons, hexagon, color, red, orange, yellow, green, blue, purple, white.",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "coloredHexabuttons",
   "Name": "Colored Hexabuttons",
   "Origin": "Mods",

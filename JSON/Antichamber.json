@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Figure out the proper antichamber room and gun to select. Tags: gun, room, 4-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "antichamber",
   "MysteryModule": "MustNotBeKey",
   "Name": "Antichamber",

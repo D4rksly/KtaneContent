@@ -11,6 +11,7 @@
     "+SemiBoss"
   ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "veryAnnoyingButton",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "The Very Annoying Button",

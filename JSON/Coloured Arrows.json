@@ -7,6 +7,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Get the colour and the direction of the arrow shown on the display and determine what coloured arrow to press from the display. Tags: coloured, arrows",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "colouredArrowsModule",
   "Name": "Coloured Arrows",
   "Origin": "Mods",

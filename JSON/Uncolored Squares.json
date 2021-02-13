@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Communicate back and forth to turn off these 16 colored squares in specific patterns in this Colored Squares lookalike module. Tags: 4x4-grid, 4×4-grid, colors, colored-squares, 16-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "UncoloredSquaresModule",
   "Name": "Uncolored Squares",
   "Origin": "Mods",

@@ -7,6 +7,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Select the correct foreign word for the English word on the display before time is up. Tags: 3-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "speakEnglish",
   "Name": "Speak English",
   "Origin": "Mods",

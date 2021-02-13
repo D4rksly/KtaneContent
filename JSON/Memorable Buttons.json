@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Enter a sequence of buttons, remembering the symbols of each along the way. Tags: buttons, symbols, number",
   "ExpertDifficulty": "Medium",
+  "License": "Restricted",
   "ModuleID": "memorableButtons",
   "Name": "Memorable Buttons",
   "Origin": "Mods",

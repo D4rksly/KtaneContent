@@ -16,6 +16,7 @@
     "+FullBoss"
   ],
   "IsSemiBoss": true,
+  "License": "OpenSource",
   "ModuleID": "Krit4CardMonte",
   "MysteryModule": "MustNotBeKey",
   "Name": "Four-Card Monte",

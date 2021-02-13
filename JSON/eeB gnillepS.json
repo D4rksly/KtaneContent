@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Identify the word spoken in a reversed audio clip and spell it backwards.",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "eeBgnilleps",
   "Name": "eeB gnillepS",
   "Origin": "Mods",

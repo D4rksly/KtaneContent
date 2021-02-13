@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Calculate how many High Card Points a 7-card bridge hand is worth, then bid accordingly.",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "bridge",
   "Name": "Bridge",
   "Origin": "Mods",

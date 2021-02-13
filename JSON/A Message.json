@@ -7,6 +7,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Submit a sequence of A letters based what is given on the module. Tags: sequence, message, A",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "AMessage",
   "Name": "A Message",
   "Origin": "Mods",

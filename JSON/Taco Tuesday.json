@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Set a reminder for an event by properly inputting the name of the event (Food and Day) and the day it will happen. Tags: three-displays",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "tacoTuesday",
   "MysteryModule": "MustNotBeKey",
   "Name": "Taco Tuesday",

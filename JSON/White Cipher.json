@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "A 3 step module using different ciphers. Tags: white, qwerty-keyboard",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "whiteCipher",
   "Name": "White Cipher",
   "Origin": "Mods",

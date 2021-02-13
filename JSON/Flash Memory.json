@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Repeat a set of squares after they appear for only one second. Tags: 1-second, 20-button, repeat, stage-lights",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "FlashMemory",
   "Name": "Flash Memory",
   "Origin": "Mods",

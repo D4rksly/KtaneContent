@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press stars to finish playing a section of The Star-Spangled Banner. tags: 7-stars, flashing, letters",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "spangledStars",
   "Name": "Spangled Stars",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Enter a room code at Jackbox Games' Jackbox.TV website to solve the module.",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "jackboxServerModule",
   "Name": "Jackbox.TV",
   "Origin": "Mods",

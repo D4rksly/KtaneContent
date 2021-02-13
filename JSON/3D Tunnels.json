@@ -10,6 +10,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Navigate a hovercraft inside a 3D grid of nodes connected by tunnels. Tags: 4-buttons, symbols, lines, walls",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "3dTunnels",
   "Name": "3D Tunnels",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press and hold the module's pentagonal button at a specific time, then release it at another specific time.",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "GSPentabutton",
   "Name": "The Pentabutton",
   "Origin": "Mods",

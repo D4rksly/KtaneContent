@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Navigate the indicator light around an invisible maze using Morse code indicated by the indicator light. Tags: 6x6-grid, red-border, blue, blinking-green-light",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "MorseAMaze",
   "Name": "Morse-A-Maze",
   "Origin": "Mods",

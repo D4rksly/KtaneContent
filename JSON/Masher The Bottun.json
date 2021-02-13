@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Mash the bottun until the screen reaches 0. Keep your eyes and ears out for things changing on the module. Tags: button, screen, number, push",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "masherTheBottun",
   "MysteryModule": "MustNotBeKey",
   "Name": "Masher The Bottun",

@@ -9,6 +9,7 @@
   "ExpertDifficulty": "VeryEasy",
   "Ignore": [ "+FullBoss" ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "FiveZeroOne",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "501",

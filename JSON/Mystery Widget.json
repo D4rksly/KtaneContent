@@ -9,6 +9,7 @@
     "+SemiBoss"
   ],
   "IsSemiBoss": true,
+  "License": "OpenSource",
   "ModuleID": "widgetModule",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Mystery Widget",

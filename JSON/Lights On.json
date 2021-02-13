@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Activate only the green lights where toggling any light toggles the lights adjacent to it",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "lightson",
   "Name": "Lights On",
   "Origin": "Mods",

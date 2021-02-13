@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Cut the correct wire based on the number and colors of wires present. Tags: horizontal-wires, red, blue, black, white, yellow",
   "ExpertDifficulty": "VeryEasy",
+  "License": "Restricted",
   "ModuleID": "Wires",
   "Name": "Wires",
   "Origin": "Vanilla",

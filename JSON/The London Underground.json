@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Figure out a valid route between two London destinations using the Underground map. Tags: red-circle, blue-line, tube, 5-displays, 3-lights",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "londonUnderground",
   "Name": "The London Underground",
   "Origin": "Mods",

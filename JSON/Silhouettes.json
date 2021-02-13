@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryHard",
   "Description": "Identify a blacked-out 3D shape and locate it in a table. Tags: coordinates, shadows, shapes",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "silhouettes",
   "Name": "Silhouettes",
   "Origin": "Mods",

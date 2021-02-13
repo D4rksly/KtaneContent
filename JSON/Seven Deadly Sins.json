@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Click the seven buttons representing the Seven Deadly Sins in a valid order. Tags: 7-buttons, sins, graph",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "sevenDeadlySins",
   "Name": "Seven Deadly Sins",
   "Origin": "Mods",

@@ -9,6 +9,7 @@
     "+SemiBoss"
   ],
   "IsSemiBoss": true,
+  "License": "OpenSource",
   "ModuleID": "klaxon",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "The Klaxon",

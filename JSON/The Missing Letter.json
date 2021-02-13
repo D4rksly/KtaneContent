@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Perform a calculation based on a missing letter and enter the correct word.",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "theMissingLetter",
   "Name": "The Missing Letter",
   "Origin": "Mods",

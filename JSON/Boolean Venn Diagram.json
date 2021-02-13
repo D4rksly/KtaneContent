@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the correct areas in a Venn diagram in which a given boolean expression is true. Tags: symbols, sideways-l, brackets, v, upside-down-v",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "booleanVennModule",
   "Name": "Boolean Venn Diagram",
   "Origin": "Mods",

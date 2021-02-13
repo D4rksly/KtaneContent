@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Type a word based on its position in a sequence that must be read out.",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "Dictation",
   "Name": "Dictation",
   "Origin": "Mods",

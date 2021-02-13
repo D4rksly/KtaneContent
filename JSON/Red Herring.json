@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Test your reaction skills by timing the correct press. Tags: red, button, square",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "RedHerring",
   "Name": "Red Herring",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Build a cube and decrypt semaphore characters to identify four symmbols that need to be pressed. Tags: black-background, symbols, 6-buttons",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "xelSemabols",
   "Name": "Semabols",
   "Origin": "Mods",

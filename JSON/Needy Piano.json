@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "A needy that forces you to play 3 notes in 30 seconds. Tags: piano, needy",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "needyPiano",
   "Name": "Needy Piano",
   "Origin": "Mods",

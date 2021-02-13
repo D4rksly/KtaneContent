@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Solve a variant of Sudoku based on how tall the Towers are.",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "Towers",
   "Name": "Towers",
   "Origin": "Mods",

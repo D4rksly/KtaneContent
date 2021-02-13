@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "A cryptography maze module using the Look-and-Say sequence. #maze #math",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "LookAndSay",
   "Name": "Look and Say",
   "Origin": "Mods",

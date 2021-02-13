@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Using 8 different apps, determine a code to submit on an Android phone. Tags: no-status-light, duolingo, google, maps, settings, wallpaper",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "theSamsung",
   "Name": "The Samsung",
   "Origin": "Mods",

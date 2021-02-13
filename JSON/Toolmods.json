@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "A module designed for training purposes on a single click of a button while displaying several useful information. Tags: dot-matrix, dark-gray",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "toolmods",
   "MysteryModule": "MustNotBeHidden",
   "Name": "Toolmods",

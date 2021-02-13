@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Answer questions about the edgework on the bomb. Tags: hazard, warning, timer, display, 3-buttons, needy",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "EdgeworkModule",
   "Name": "Edgework",
   "Origin": "Mods",

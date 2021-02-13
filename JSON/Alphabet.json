@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press four lettered keys in the correct order. Tags: 4-buttons",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "alphabet",
   "Name": "Alphabet",
   "Origin": "Mods",

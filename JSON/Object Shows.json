@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Eliminate object-based contestants based on the current contest and edgework. Tags: objects, grass, items, events, contest",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "objectShows",
   "MysteryModule": "MustNotBeKey",
   "Name": "Object Shows",

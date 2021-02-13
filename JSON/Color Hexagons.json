@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Find the 6 hex digits in a hexagonal diagram and press the color that matches. Tags: 6-hexagons, impact-font",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "colorHexagons",
   "Name": "Color Hexagons",
   "Origin": "Mods",

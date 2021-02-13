@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "A 3 step module using different ciphers. Tags: blue, qwerty-keyboard",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "blueCipher",
   "Name": "Blue Cipher",
   "Origin": "Mods",

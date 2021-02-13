@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryHard",
   "Description": "Submit an interval that is played on the module. Tags: 2-buttons, pitch, music",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "intervals",
   "Name": "Intervals",
   "Origin": "Mods",

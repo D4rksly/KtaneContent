@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Calculate a number and modify it according to the Conway sequence. Tags: 3-leds, morse, 12-buttons, digits, del",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "goofysgame",
   "Name": "Goofy's Game",
   "Origin": "Mods",

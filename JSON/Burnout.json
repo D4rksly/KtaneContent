@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Take the track that you're racing on and figure out your racing setup! Tags: large-display, 4 buttons, 2 displays, go",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "kataBurnout",
   "Name": "Burnout",
   "Origin": "Mods",

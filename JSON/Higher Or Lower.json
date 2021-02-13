@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Choose the correct side of the module seven times based on the number and color shown.",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "HigherOrLower",
   "Name": "Higher Or Lower",
   "Origin": "Mods",

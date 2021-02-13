@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Repeatedly tap on the fidget spinner to keep it spinning. Tags: needy, fidget-spinner",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "theFidgetSpinner",
   "Name": "The Fidget Spinner",
   "Origin": "Mods",

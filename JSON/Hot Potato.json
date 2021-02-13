@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "When the needy activates, drop the bomb. Tags: screen, needy",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "HotPotato",
   "Name": "Hot Potato",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Enter a short, well-known festive melody. Tags: green, christmas, piano, symbols, holly",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "FestivePianoKeys",
   "Name": "Festive Piano Keys",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "An enemy approaches! Use the correct move to solve the module and gain some sweet EXP. Tags: Mother, 4 buttons, 3 displays, Sprite, Combat, Battle, Black background, Bash, Defend, PSI, Run",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "EarthboundModule",
   "Name": "Earthbound",
   "Origin": "Mods",

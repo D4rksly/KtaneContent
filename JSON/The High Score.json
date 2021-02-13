@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Enter the correct initials to escape the High Scores screen. Tags: 4-buttons, left-arrow, right-arrow, arcade, high-scores, initials",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "ksmHighScore",
   "Name": "The High Score",
   "Origin": "Mods",

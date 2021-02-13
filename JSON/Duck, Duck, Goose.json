@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Figure out whether the bird on-screen is a duck, a goose, or neither. Tags: photo, 3-buttons",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "DUCKDUCKGOOSE",
   "Name": "Duck, Duck, Goose",
   "Origin": "Mods",

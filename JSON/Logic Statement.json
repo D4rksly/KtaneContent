@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Answer true or false to logic statements displayed on the bomb. Tags: logic, true, false, display, 2-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "logicStatement",
   "Name": "Logic Statement",
   "Origin": "Mods",

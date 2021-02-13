@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Read four homophonic words and press four buttons in the correct order. Tags: colour-buttons, four-buttons, screen, cycle, word",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "homophones",
   "Name": "Homophones",
   "Origin": "Mods",

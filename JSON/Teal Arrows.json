@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Determine which teal directional buttons to press based on flashing arrows. Tags: teal, arrows, flash, display, 4-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "tealArrowsModule",
   "Name": "Teal Arrows",
   "Origin": "Mods",

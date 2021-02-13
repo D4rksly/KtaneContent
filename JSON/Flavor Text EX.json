@@ -1,12 +1,13 @@
 {
   "Compatibility": "Compatible",
-  "Contributors": { 
+  "Contributors": {
     "Developer": [ "DVD" ],
     "Maintainer": [ "eXish" ]
   },
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press buttons according to the Steam ID of a module with a certain flavor text. Tags: display, text, green, 4-buttons, numbers, flavor-text",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "FlavorTextCruel",
   "Name": "Flavor Text EX",
   "Origin": "Mods",

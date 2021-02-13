@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Convert high and low notes to binary and then unscramble a word to submit a five digit number. Tags: audio, decrypt, binary.",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "DoublePitch",
   "Name": "Double Pitch",
   "Origin": "Mods",

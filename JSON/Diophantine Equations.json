@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Find a specific set of integers solving a linear diophantine equation. Tags: 13-button, c, s, display, numbers",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "DiophantineEquations",
   "Name": "Diophantine Equations",
   "Origin": "Mods",

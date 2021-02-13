@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Solve a question about a random module, both modded and vanilla, before class is over. Tags: subject, school, study",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "KritHomework",
   "Name": "Module Homework",
   "Origin": "Mods",

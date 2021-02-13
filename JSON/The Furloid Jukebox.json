@@ -7,6 +7,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Identify the song that the module picked using the 5 Japanese characters shown. Tags: Japanese, jukebox, furloid",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "xelFurloidJukebox",
   "Name": "The Furloid Jukebox",
   "Origin": "Mods",

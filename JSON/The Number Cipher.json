@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Calculate a simple number problem based on three light colors and three cipher digits. Tags: 3-digits, 3-circles, left-arrow, right-arrow",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "numberCipher",
   "Name": "The Number Cipher",
   "Origin": "Mods",

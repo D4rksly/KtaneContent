@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Boolean Maze except more NOT fun. Now with wraparound! Tags: red, logic, move, 6-buttons, display, stuck, reset",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "boolMazeCruel",
   "Name": "Cruel Boolean Maze",
   "Origin": "Mods",

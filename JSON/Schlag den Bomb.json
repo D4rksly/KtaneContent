@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Use the game's score and bomb information to find which games the contender won and which went unplayed. Tags: yellow-background, 2-displays, exclamation-mark, 35-buttons, numbers, scoreboard, name",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "qSchlagDenBomb",
   "Name": "Schlag den Bomb",
   "Origin": "Mods",

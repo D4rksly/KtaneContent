@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Turn on a radio with the correct frequency and transmission at the correct time. Tags: Radio, frequency, transmission, transmit",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "KritRadio",
   "Name": "The Radio",
   "Origin": "Mods",

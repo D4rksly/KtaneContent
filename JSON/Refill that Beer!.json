@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Periodically refill the beer stein lest you run out of your daily dose of booze. Tags: timer, hazard, needy, glass",
   "ExpertDifficulty": "VeryEasy",
+  "License": "Restricted",
   "ModuleID": "NeedyBeer",
   "Name": "Refill that Beer!",
   "Origin": "Mods",

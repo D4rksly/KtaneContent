@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Decrypt the equation on the module and then input the correct value. Tags: math, encrypted, shapes, symbols, numbers",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "EncryptedEquationsModule",
   "Name": "Encrypted Equations",
   "Origin": "Mods",

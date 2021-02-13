@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "35 combinations of puzzles! Tags: decipher, colors, morse-code, tap-code, buttons",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "sevenChooseFour",
   "Name": "Seven Choose Four",
   "Origin": "Mods",

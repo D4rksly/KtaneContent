@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Press the four buttons in the correct order throughout 3 stages to disarm the module. Tags: Red Module, Keypads, Seven-segment display",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "CruelKeypads",
   "Name": "Cruel Keypads",
   "Origin": "Mods",

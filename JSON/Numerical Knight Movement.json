@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Move the knight piece on the chessboard in such a way so that each tile will have a number of 0. Tags: knight, chess, board",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "NumericalKnightMovement",
   "Name": "Numerical Knight Movement",
   "Origin": "Mods",

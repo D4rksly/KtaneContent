@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryHard",
   "Description": "Identify four snowflakes and move through a maze. Tags: 4-buttons, 4-screens, winter, cyan",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "snowflakes",
   "Name": "Snowflakes",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Click the buttons before they reach zero. Tags: 6-buttons, display, number",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "10seconds",
   "Name": "Ten Seconds",
   "Origin": "Mods",

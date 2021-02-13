@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Identify a song based off of its spectogram. Tags: 2-lights, arrows, 2-buttons, squares",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "JukeboxWAV",
   "Name": "Jukebox.WAV",
   "Origin": "Mods",

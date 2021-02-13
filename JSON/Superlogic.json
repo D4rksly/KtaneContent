@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Determine the truth values of boolean variables in a system of equations. Tags: red, green, letters, a, b, c",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "SuperlogicModule",
   "Name": "Superlogic",
   "Origin": "Mods",

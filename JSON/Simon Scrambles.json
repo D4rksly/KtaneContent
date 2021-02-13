@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "He got lost. Which colors did he show? He doesn't remember. Tags: 4-buttons, simon-says, flashing-colors",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "simonScrambles",
   "Name": "Simon Scrambles",
   "Origin": "Mods",

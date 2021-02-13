@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Use fantasy adventure-themed items and weapons against an enemy according to parameters listed on the module. Tags: use, 3-displays, character-stats",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "spwizAdventureGame",
   "Name": "Adventure Game",
   "Origin": "Mods",

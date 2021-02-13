@@ -15,6 +15,7 @@
     "+FullBoss"
   ],
   "IsSemiBoss": true,
+  "License": "OpenSource",
   "ModuleID": "encryptionBingo",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Encryption Bingo",

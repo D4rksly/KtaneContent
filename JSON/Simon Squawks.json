@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Enter a two-colour response to a two-colour sequence. Tags: lights, bars, hazard, squawk",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "simonSquawks",
   "Name": "Simon Squawks",
   "Origin": "Mods",

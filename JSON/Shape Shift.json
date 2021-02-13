@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Start with a shape and follow questions in a flow chart until you arrive at a solution shape. Tags: 2-green-triangles, red-circle",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "shapeshift",
   "Name": "Shape Shift",
   "Origin": "Mods",

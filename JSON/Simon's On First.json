@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Pass information back and forth to solve an increasing series of Simon sequences. Tags: Sun, Simon, Paint, numbers, triangles",
   "ExpertDifficulty": "Medium",
+  "License": "Restricted",
   "ModuleID": "simonsOnFirst",
   "Name": "Simon's On First",
   "Origin": "Mods",

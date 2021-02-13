@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Decipher the message written on the dials and submit the encrypted response, using caesar cipher. Tags: keyboard, white-text, red-button",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "caesarCycle",
   "Name": "Caesar Cycle",
   "Origin": "Mods",

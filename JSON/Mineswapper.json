@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Swap tiles so that each is adjacent to the correct number of mines.",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "mineswapper",
   "Name": "Mineswapper",
   "Origin": "Mods",

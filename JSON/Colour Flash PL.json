@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Shows various color words in different colors (Stroop effect). Tags: yes, no, display",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "ColourFlashPL",
   "Name": "Colour Flash PL",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Submit the exact name of the collectible being shown in the module three times. Tags: collectible, mystery, Isaac, keyboard",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "PickupIdentification",
   "Name": "Pickup Identification",
   "Origin": "Mods",

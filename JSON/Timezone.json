@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Convert a given time from one timezone to another. Tags: clock, numpad, am, pm, 12, 24, submit, 7-segment-display",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "timezone",
   "Name": "Timezone",
   "Origin": "Mods",

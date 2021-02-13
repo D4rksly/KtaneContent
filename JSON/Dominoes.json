@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Topple a row of dominoes. Tags: dominoes, black-squares",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "dominoes",
   "Name": "Dominoes",
   "Origin": "Mods",

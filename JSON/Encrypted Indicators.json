@@ -2,6 +2,7 @@
   "Author": "Trainzack",
   "Compatibility": "Compatible",
   "Description": "An indicator encrypted with symbols. Tags: edgework, display, screen",
+  "License": "OpenSource",
   "ModuleID": "EncryptedIndicator",
   "Name": "Encrypted Indicators",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Associate every pin of a microchip with a color and enter them in the order mandated by the module. Tags: circuit-board, up-arrow, down-arrow, ok, fnx, led",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "Microcontroller",
   "Name": "Microcontroller",
   "Origin": "Mods",

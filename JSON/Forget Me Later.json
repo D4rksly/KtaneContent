@@ -10,6 +10,7 @@
     "+FullBoss"
   ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "forgetMeLater",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Forget Me Later",

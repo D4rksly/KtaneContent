@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Minecraft crafting tools and armor to not explode. Tags: crafting-grid, minecraft, 3×3-grid, 3x3-grid",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "needycrafting",
   "Name": "The Crafting Table",
   "Origin": "Mods",

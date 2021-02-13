@@ -5,6 +5,7 @@
   "Description": "Get the module to the correct mood while avoiding invalid moods. Tag: eyes, mouth, face",
   "DisplayName": "Frankenstein's Indicator",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "frankensteinsIndicator",
   "Name": "Frankenstein's Indicator",
   "Origin": "Mods",

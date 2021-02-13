@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Identify a phoneme and then find the symbol to which it corresponds. Tags: 9-buttons, play-button, teal-background",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "ipa",
   "Name": "IPA",
   "Origin": "Mods",

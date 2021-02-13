@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Scan a QR code on the module and enter the code. Tags, 0-to-9, timer, hazard, needy",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "QRCode",
   "Name": "QR Code",
   "Origin": "Mods",

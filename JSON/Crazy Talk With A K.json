@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Perform mathematical operations based on the alphanumeric sums of two words to determine a final number. Tags: words, arrows, sphere",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "CrazyTalkWithAK",
   "Name": "Crazy Talk With A K",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Figure out a 4 or 6 digit passcode based on edgework and then translate the passcode into letters. Tags: 10-buttons, keypad, 6-leds, two-types",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "xtrpasscodes",
   "Name": "Passcodes",
   "Origin": "Mods",

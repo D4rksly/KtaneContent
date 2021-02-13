@@ -6,6 +6,7 @@
   "ExpertDifficulty": "Medium",
   "Ignore": [ "+FullBoss" ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "RPSJudging",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "RPS Judging",

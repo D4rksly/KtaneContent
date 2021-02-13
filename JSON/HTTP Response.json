@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Respond to an HTTP error description with a numerical code. Tags: hazard, needy, timer, display, 0-to-9",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "http",
   "Name": "HTTP Response",
   "Origin": "Mods",

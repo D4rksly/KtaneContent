@@ -10,6 +10,7 @@
     "+FullBoss"
   ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "ShoddyChessModule",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Shoddy Chess",

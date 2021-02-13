@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Identify a track being played and calculate a six digit code based off of it. Tags: red, 6-buttons, labels",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "CruelGarfieldKart",
   "Name": "Cruel Garfield Kart",
   "Origin": "Mods",

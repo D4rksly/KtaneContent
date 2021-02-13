@@ -7,6 +7,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Click the correct keys based on a certain sequence of colors.",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "kataStripedKeys",
   "Name": "Striped Keys",
   "Origin": "Mods",

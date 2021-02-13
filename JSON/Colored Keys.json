@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press one of the four buttons based on the colors of the buttons and the display. Tags: 4-buttons, letters, display, colors, colours",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "lgndColoredKeys",
   "Name": "Colored Keys",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Select the module when the manual tells you to before the timer runs out. Tags: blue, red, yellow, green",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "BlueNeedy",
   "Name": "Blue",
   "Origin": "Mods",

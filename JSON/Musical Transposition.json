@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Transpose a set of 6 notes based on rules found in the manual. Tags: piano, music, keys, display",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "MusicalTransposition",
   "Name": "Musical Transposition",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Enter a short, well-known melody. Tags: symbols, music, 7-white, 5-black",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "PianoKeys",
   "Name": "Piano Keys",
   "Origin": "Mods",

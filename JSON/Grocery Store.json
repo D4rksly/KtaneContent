@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Add items to your shopping cart while avoiding surpassing your spending limit. Tags: 2-buttons, add-to-cart, pay-and-leave, display",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "groceryStore",
   "Name": "Grocery Store",
   "Origin": "Mods",

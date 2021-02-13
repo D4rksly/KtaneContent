@@ -8,6 +8,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Figure out which buttons to press by grabbing the digits and the color on each of the numbers that are shown. Tags: 5x5-grid, 7-colors",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "digitalGrid",
   "Name": "Digital Grid",
   "Origin": "Mods",

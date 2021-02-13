@@ -1,12 +1,13 @@
 {
   "Compatibility": "Compatible",
-  "Contributors": { 
+  "Contributors": {
     "Developer": [ "eXish" ],
     "Manual": [ "EpicToast" ]
   },
   "DefuserDifficulty": "VeryEasy",
   "Description": "Find which binary number to input into the module based on a digital root. Tags: digital root, binary, red, green, yes, no",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "faultyDigitalRootModule",
   "MysteryModule": "MustNotBeHidden",
   "Name": "Faulty Digital Root",

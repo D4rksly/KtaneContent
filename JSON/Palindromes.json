@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Find 3 palindromes that add up to the 9-digit display. Tags: blue-module, blue-background, screen, 2-screens, display, 2-display, 9-digit, 8-digit, 7-digit, digit, number, 3-buttons, button",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "palindromes",
   "Name": "Palindromes",
   "Origin": "Mods",

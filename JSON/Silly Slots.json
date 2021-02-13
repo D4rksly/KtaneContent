@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Depending on the colors and shapes on the slot machine, decide whether to pull the lever or keep the slots. Tags: lever, red-ball, yellow-stick, keep, 4-dots, 3-wheels",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "SillySlots",
   "Name": "Silly Slots",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "It’s literally a needy Simon Says. Tags: simon-says, 4-buttons, colors, needy",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "simonsSequence",
   "Name": "Simon's Sequence",
   "Origin": "Mods",

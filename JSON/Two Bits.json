@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Obtain a two-letter code and repeatedly query the module until you arrive at the solution code. Tags: query, submit, random-letters",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "TwoBits",
   "Name": "Two Bits",
   "Origin": "Mods",

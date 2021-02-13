@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Cut the wires so the wires you didn't cut form a logical operator. Tags: Wire, Boolean, Logic, Edgework",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "booleanWires",
   "Name": "Boolean Wires",
   "Origin": "Mods",

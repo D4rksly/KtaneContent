@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Press and release buttons at the right time based on confusing and ambiguous phrases on a screen. Tags: screen, 4-buttons, LEDs",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "krazyTalk",
   "Name": "Krazy Talk",
   "Origin": "Mods",

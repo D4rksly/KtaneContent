@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Set the 3 dials to the correct positions and submit at the right time. Tags: 3 dials, 4 screens, music, notes, sound, wood background",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "scalarDials",
   "Name": "Scalar Dials",
   "Origin": "Mods",

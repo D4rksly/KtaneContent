@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Spell the difficult-to-spell word spoken out loud to you in under 60 seconds. Tags: keyboard, honey, 2-screens, play-button, green-button, red-button",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "spellingBee",
   "Name": "Spelling Bee",
   "Origin": "Mods",

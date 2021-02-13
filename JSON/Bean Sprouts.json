@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Eat three sprouts according to their colours and potentially attached beans. Tags: beans, grey-background",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "beanSprouts",
   "Name": "Bean Sprouts",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Use the displayed numbers to find other numbers. Tags: grey-background, numbers, 4-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "Numbers",
   "Name": "Numbers",
   "Origin": "Mods",

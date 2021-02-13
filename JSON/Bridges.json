@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Convert symbols to numbers to solve a hashiwokakero puzzle!",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "bridges",
   "Name": "Bridges",
   "Origin": "Mods",

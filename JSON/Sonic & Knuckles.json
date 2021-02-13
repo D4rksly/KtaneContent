@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Press Sonic & Knuckles themed buttons, identify their sounds and defeat a boss within a time limit. Tags: sega-logo",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "sonicKnuckles",
   "Name": "Sonic & Knuckles",
   "Origin": "Mods",

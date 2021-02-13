@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Fix a bugged script and run it. Tags: Script, Using, Variable, Condition, Action, Statement",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "KritScripts",
   "Name": "Scripting",
   "Origin": "Mods",

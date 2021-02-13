@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press the batten at the right time!",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "musherTheBatten",
   "Name": "Musher The Batten",
   "Origin": "Mods",

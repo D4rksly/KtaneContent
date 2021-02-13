@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Turn all the lights out in this logic puzzle where only several lights in a specific pattern can be switched. Tags: needy, hazard, timer, 3x3-grid, black-rectangles",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "LightsOut",
   "Name": "Lights Out",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Input a sequence of 5 buttons to disarm this module. Tags: 9-buttons, 3x3-grid",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "mindlock",
   "Name": "Mindlock",
   "Origin": "Mods",

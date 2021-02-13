@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Comment out the incorrect instructions to draw a valid shape. Tags: pixels, up-arrow, down-arrow, hash, pound, 3-buttons",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "turtleRobot",
   "Name": "Turtle Robot",
   "Origin": "Mods",

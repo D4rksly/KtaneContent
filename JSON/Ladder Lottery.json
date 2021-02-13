@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Using edgework, find which path is connected to the lit top path. Tags: wooden-box, green-border, four-lights, eight-lights",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "ladderLottery",
   "Name": "Ladder Lottery",
   "Origin": "Mods",

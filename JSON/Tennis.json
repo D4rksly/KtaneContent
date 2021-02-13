@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Calculate the score in a tennis match. Tags: tennis-ball, tennis-racket, 14-displays",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "TennisModule",
   "Name": "Tennis",
   "Origin": "Mods",

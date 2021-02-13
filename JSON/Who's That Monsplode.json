@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Identify a creature displayed only as a silhouette. Tags: timer, needy, hazard, shadow, brown, green, 2-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "monsplodeWho",
   "Name": "Who's That Monsplode?",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Use some complex rules and 3 indicators to determine when to hold and release the button. Tags: 3-displays, 3-numbers",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "needlesslyComplicatedButton",
   "Name": "Needlessly Complicated Button",
   "Origin": "Mods",

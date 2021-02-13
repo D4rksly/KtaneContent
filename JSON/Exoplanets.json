@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Based on the properties of a foreign star system, determine a planet to press and the digit on which to press it. Tags: 3-planets, star-background, no-status-light, orbit, ambiance",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "exoplanets",
   "Name": "Exoplanets",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the stock image which has the highest value. Tags: display, photos, pictures",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "StockImages",
   "Name": "Stock Images",
   "Origin": "Mods",

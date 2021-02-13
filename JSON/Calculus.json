@@ -1,12 +1,13 @@
 {
   "Compatibility": "Compatible",
-  "Contributors": { 
+  "Contributors": {
     "Developer": [ "catcraze777" ],
     "Maintainer": [ "eXish" ]
   },
   "DefuserDifficulty": "Easy",
   "Description": "A module that requires basic calculus to solve. Tags: math, 3-buttons, 2-displays",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "calcModule",
   "Name": "Calculus",
   "Origin": "Mods",

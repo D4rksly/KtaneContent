@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Observe a series of 8-bit hexadecimal values and submit the correct RGB values.",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "sixten",
   "Name": "SixTen",
   "Origin": "Mods",

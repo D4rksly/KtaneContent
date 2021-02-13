@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryHard",
   "Description": "Reconstruct symbols displayed only as a thin line that scans the symbol from top to bottom. Tags: green-line, 5-buttons, 5-circles",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "XRayModule",
   "Name": "X-Ray",
   "Origin": "Mods",

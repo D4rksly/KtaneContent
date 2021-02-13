@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Go down the list of indicators and press the colored button of the 1st applicable rule. Tags: 12-buttons, colors",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "ColoredButtons",
   "Name": "Colored Buttons",
   "Origin": "Mods",

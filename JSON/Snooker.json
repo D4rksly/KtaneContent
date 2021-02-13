@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Clear a snooker table in four given breaks. Tags: 14-balls, 15-balls, 16-balls, numbers",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "snooker",
   "Name": "Snooker",
   "Origin": "Mods",

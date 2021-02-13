@@ -11,6 +11,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Select the correct Kanji out of four buttons for 3 stages. Tags: 4-buttons, Japanese, 3-stages",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "KanjiModule",
   "Name": "Kanji",
   "Origin": "Mods",

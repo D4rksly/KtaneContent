@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press a colored button based on the display. Tags: needy, 4-buttons, colors",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "lgndColorMatch",
   "Name": "Color Match",
   "Origin": "Mods",

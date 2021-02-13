@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "You need to press the left or the right button, sound easy right? Tags: 2-buttons, edgework",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "leftandRight",
   "Name": "Left and Right",
   "Origin": "Mods",

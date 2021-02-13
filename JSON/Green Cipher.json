@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "A 3 step module using different ciphers. Tags: green, qwerty-keyboard",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "greenCipher",
   "Name": "Green Cipher",
   "Origin": "Mods",

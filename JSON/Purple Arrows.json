@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Navigate a table of words only knowing the first letter of each and submitting on the correct word. Tags: purple, arrows, table, wordscramble, display, 5-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "purpleArrowsModule",
   "Name": "Purple Arrows",
   "Origin": "Mods",

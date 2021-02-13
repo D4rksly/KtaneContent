@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Select the correct answer according to the clue and the big word on the module. Tags: 1-button, gray-background, words",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "jackAttack",
   "Name": "Jack Attack",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Determine which buttons to press depending on the suits and numbers around. Tags: 20-buttons, suits, red-black",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "SueetWall",
   "Name": "Sueet Wall",
   "Origin": "Mods",

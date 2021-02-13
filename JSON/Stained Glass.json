@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Smash panes of stained glass in the window according to certain colour-based rules. Tags: glass, diamond, colours, windows",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "stainedGlass",
   "Name": "Stained Glass",
   "Origin": "Mods",

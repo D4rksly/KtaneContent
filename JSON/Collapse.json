@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Keep this needy alive by matching sets of 3 or more of the same type to lower the stack from being at the top of the grid. Tags: needy, grid",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "collapseBasic",
   "Name": "Collapse",
   "Origin": "Mods",

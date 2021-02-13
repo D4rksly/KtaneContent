@@ -6,6 +6,7 @@
   "ExpertDifficulty": "Hard",
   "Ignore": [ "+FullBoss" ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "tallorderedKeys",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Tallordered Keys",

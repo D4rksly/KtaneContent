@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Make some art! Tags: Etch, Sketch, 2-Knobs",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "etchASketch",
   "Name": "Etch-A-Sketch",
   "Origin": "Mods",

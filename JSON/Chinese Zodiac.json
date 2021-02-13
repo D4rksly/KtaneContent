@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Select a matching year and Chinese Zodiac sign. Tags: red, chinese, parchment",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "xelChineseZodiac",
   "Name": "Chinese Zodiac",
   "Origin": "Mods",

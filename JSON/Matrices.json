@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Tags: linear-algebra, matrix, math, 2-buttons, y, n, blue-module",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "MatrixQuiz",
   "Name": "Matrices",
   "Origin": "Mods",

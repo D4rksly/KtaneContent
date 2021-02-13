@@ -1,14 +1,13 @@
 {
+  "Compatibility": "Compatible",
   "Contributors": {
-    "Developer": [
-      "Deaf"
-    ],
+    "Developer": [ "Deaf" ],
     "Manual": [ "Blananas2" ]
   },
-  "Compatibility": "Compatible",
   "DefuserDifficulty": "VeryEasy",
   "Description": "Convert the serial number to base 10 and take the sum. Tags: numbered-buttons, clear, solve",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "TheCalculator",
   "Name": "The Calculator",
   "Origin": "Mods",

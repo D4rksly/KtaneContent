@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the correct button depending on the phrase and punctuation shown in this Venting Gas lookalike. Tags: 2-buttons, timer, N, Y, needy, hazard, warning",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "NotVentingGas",
   "Name": "Not Venting Gas",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Select the three words in the correct order based on a song by Weird Al Yankovic. Tags: hawaiian-shirt, lyrics, records",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "weirdAlYankovic",
   "Name": "Weird Al Yankovic",
   "Origin": "Mods",

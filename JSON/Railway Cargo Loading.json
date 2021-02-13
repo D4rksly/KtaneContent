@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Couple the correct railroad cars to the train to disarm the module. Tags: 4-buttons, trains, hazard",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "RailwayCargoLoading",
   "Name": "Railway Cargo Loading",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Make the mathematical equation true by moving matches around. Tags: matches, numbers, digits, reset, confirm",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "matchematics",
   "Name": "Matchematics",
   "Origin": "Mods",

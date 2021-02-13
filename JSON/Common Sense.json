@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Answer children-simple questions correctly or incorrectly depending on the color around the display. Tags: 1-screen, 2-buttons",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "commonSense",
   "Name": "Common Sense",
   "Origin": "Mods",

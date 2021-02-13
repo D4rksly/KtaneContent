@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press the correct button according to the display, button labels and lights in this Memory lookalike. Tags: display, 4-buttons, 4-numbers, 5-lights, oscilloscope",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "NotMemory",
   "Name": "Not Memory",
   "Origin": "Mods",

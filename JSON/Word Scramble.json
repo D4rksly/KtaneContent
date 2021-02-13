@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Unscramble a six-letter word. Tags: ok, del, 8-buttons, random, 2-displays",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "WordScrambleModule",
   "Name": "Word Scramble",
   "Origin": "Mods",

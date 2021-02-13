@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Perform the modulo operation using two given numbers. Tags: keypad, screens, numbers, submit, clear",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "modulo",
   "Name": "Modulo",
   "Origin": "Mods",

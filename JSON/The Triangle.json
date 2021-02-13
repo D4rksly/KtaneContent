@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Press a sequence of triangular buttons based on a rotating triangle and a piece of triangular artwork. Tags: triangles, art, rotating",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "triangle",
   "Name": "The Triangle",
   "Origin": "Mods",

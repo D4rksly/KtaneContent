@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Write two words but switch some of their letters with numbers based on THE KEY. Tags: Buttons, Keypad, Words, Key, Display",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "xtrkeywords",
   "Name": "Keywords",
   "Origin": "Mods",

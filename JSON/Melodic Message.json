@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Use the piano keys to find a scrambled word and submit it.",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "melodicMessage",
   "Name": "Melodic Message",
   "Origin": "Mods",

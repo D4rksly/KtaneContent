@@ -6,6 +6,7 @@
   "ExpertDifficulty": "VeryHard",
   "Ignore": [ "+FullBoss" ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "simonsStages",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Simon's Stages",

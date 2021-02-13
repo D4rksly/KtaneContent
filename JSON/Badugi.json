@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Compare two Badugi hands and choose the winner. Tags: playing-cards, left-player, right-player, deck, chips, wins, bet-line",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "ksmBadugi",
   "Name": "Badugi",
   "Origin": "Mods",

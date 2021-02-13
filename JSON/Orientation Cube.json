@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Rotate a cube in 3D space in such a way that specific faces move to specific new locations. Tags: top, reset, left-arrow, right-arrow, rotate-clockwise, rotate-anticlockwise",
   "ExpertDifficulty": "Medium",
+  "License": "Restricted",
   "ModuleID": "OrientationCube",
   "Name": "Orientation Cube",
   "Origin": "Mods",

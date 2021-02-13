@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Press a button quickly according to moves in a table. Tags: 4-buttons, playstation-controller, square, circle, triangle, x",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "xelQuickTimeEvents",
   "Name": "Quick Time Events",
   "Origin": "Mods",

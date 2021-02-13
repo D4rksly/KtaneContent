@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Draw a certain symbol using rules from other manuals. Tags: 9-buttons, circles, colors",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "brushStrokes",
   "Name": "Brush Strokes",
   "Origin": "Mods",

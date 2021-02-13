@@ -7,6 +7,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press buttons on a Simon module with no verbal instruction. Tags: simon, red, orange, yellow, green, 4-button",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "nonverbalSimon",
   "Name": "❖",
   "Origin": "Mods",

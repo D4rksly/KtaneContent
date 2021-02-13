@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Navigate to three marked coordinates in the correct order in a maze that is randomly shifted. Tags: maze, 6x6-grid, color, 4-buttons",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "shiftedMaze",
   "Name": "Shifted Maze",
   "Origin": "Mods",

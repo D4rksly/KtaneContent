@@ -9,6 +9,7 @@
     "+SemiBoss"
   ],
   "IsSemiBoss": true,
+  "License": "OpenSource",
   "ModuleID": "HogwartsModule",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Hogwarts",

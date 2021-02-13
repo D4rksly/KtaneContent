@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Work out which rule applies to the sequence of flashing colors and respond with a color sequence in three stages. Tags: blue, red, yellow, green, purple, orange, blinking, tone",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "SimonScreamsModule",
   "Name": "Simon Screams",
   "Origin": "Mods",

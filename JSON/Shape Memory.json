@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Remember the previous shape to refill the needy timer as it ticks down. Tags: green-tick, red-cross, hazard",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "needyShapeMemory",
   "Name": "Shape Memory",
   "Origin": "Mods",

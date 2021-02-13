@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Rearrange a 9-digit string so that some divisibility rules apply. Tags: Cyan background, cyan buttons, 9-digits, 9-buttons",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "digisibility",
   "Name": "Digisibility",
   "Origin": "Mods",

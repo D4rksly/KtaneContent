@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Pay the bomb a certain amount of “Free Parking” money, depending on other present modules. Tags: Monopoly, token",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "freeParking",
   "MysteryModule": "MustNotBeKey",
   "Name": "Free Parking",

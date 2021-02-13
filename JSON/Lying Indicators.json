@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Push buttons on a grid based on indicators, and other edgework. Tags: gray-module, gray-background, 35-buttons, button, grid",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "lyingIndicators",
   "MysteryModule": "MustNotBeKey",
   "Name": "Lying Indicators",

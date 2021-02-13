@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press the button with the correct number on it based on an LED in the center. Tags: one, two, three, four, led",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "colorNumbers",
   "Name": "Color Numbers",
   "Origin": "Mods",

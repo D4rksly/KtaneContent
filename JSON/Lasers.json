@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Deploy 7 lasers based on each stage’s rules and the lasers’ colors. Tags: 1-to-9, hazard, doors",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "lasers",
   "Name": "Lasers",
   "Origin": "Mods",

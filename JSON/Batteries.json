@@ -2,6 +2,7 @@
   "Author": "Steel Crate Games",
   "Compatibility": "Compatible",
   "Description": "Battery enclosures containing common battery types. Tags: edgework, casing, holder",
+  "License": "Restricted",
   "ModuleID": "BatteryWidget",
   "Name": "Batteries",
   "Origin": "Vanilla",

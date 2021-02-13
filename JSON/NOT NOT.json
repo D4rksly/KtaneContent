@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Move according to given statements in time. Tags: Black background, Logic",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "notnot",
   "Name": "NOT NOT",
   "Origin": "Mods",

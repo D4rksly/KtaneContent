@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Calculate a target number using a selection of small and large numbers. Tags: number, numbers, target, clock, countdown, plus, minus, times, divide, whiteboard",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "countdown",
   "Name": "Countdown",
   "Origin": "Mods",

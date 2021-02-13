@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Read upside down cycling words. Tags: two-screens, 1-button, check-mark, bottom-left-status-light",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "topsyTurvy",
   "Name": "Topsy Turvy",
   "Origin": "Mods",

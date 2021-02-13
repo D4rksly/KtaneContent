@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Calculate the determinant of a 2×2 matrix. Tags: timer, needy, hazard, submit, keypad, 0-to-9, underscore, hyphen, dash",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "determinant",
   "Name": "Determinants",
   "Origin": "Mods",

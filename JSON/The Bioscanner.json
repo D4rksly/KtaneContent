@@ -9,6 +9,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Select the correct alien glyphs in the Bioscanner",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "TheBioscanner",
   "Name": "The Bioscanner",
   "Origin": "Mods",

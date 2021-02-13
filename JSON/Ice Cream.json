@@ -11,6 +11,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Sell the appropriate flavors of ice cream while avoiding triggering your customers’ allergies. Tags: name, left-arrow, right-arrow, sell",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "iceCreamModule",
   "Name": "Ice Cream",
   "Origin": "Mods",

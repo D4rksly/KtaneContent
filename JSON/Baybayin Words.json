@@ -8,6 +8,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Translate a Tagalog word written in Modern Baybayin Alphabet to English. Tags: 6-buttons, green-text, foreign-script, words",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "BaybayinWords",
   "Name": "Baybayin Words",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Calculate the score of a 9-hole golf round then submit it onto the module.",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "SBgolfModule",
   "Name": "Golf",
   "Origin": "Mods",

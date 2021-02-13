@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Identify which direction a sound is coming from. Tags: 3-buttons, green-button",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "marcoPolo",
   "Name": "Marco Polo",
   "Origin": "Mods",

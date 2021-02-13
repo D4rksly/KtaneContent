@@ -7,6 +7,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Take the number and colors from the display and perform calculations on it until the value becomes 0. Tags: 12-buttons, keypad, display, 9-digit-number, colors",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "0",
   "Name": "0",
   "Origin": "Mods",

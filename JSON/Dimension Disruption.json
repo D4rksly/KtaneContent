@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Rotate the icon-themed module to find 3 characters within a 3D structure full of cubes.Tags: blocky, cubic, 4-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "dimensionDisruption",
   "Name": "Dimension Disruption",
   "Origin": "Mods",

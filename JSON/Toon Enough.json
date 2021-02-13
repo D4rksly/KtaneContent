@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Perform calculations about a toon to figure out whether they are 'Toon Enough' for the challenge. Tags: toon, math, 2-buttons, gag, challenge",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "toonEnough",
   "Name": "Toon Enough",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Do a series of simple math questions in the span of thirty seconds.",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "MentalMath",
   "Name": "Mental Math",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press the correct shape according to the edgework table. Tags: 3-buttons, shapes",
   "ExpertDifficulty": "VeryEasy",
+  "License": "Restricted",
   "ModuleID": "pressTheShape",
   "Name": "Press The Shape",
   "Origin": "Mods",

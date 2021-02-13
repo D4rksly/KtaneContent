@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Flip the switches based on the LEDs colors and their positions. Tags: 5-switches, 10-leds, red, green, blue, purple, orange, turquoise, unlit, white",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "R4YUncoloredSwitches",
   "Name": "Uncolored Switches",
   "Origin": "Mods",

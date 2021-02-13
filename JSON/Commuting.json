@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Getting to and from work is a fairly mundane choice, until making the wrong choice has larger consequences than simply missing a meeting.",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "commuting",
   "Name": "Commuting",
   "Origin": "Mods",

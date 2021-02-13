@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press some strange symbols and do some boolean logic, fun! Tags: 4-buttons, symbols, booleans, logic",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "BooleanKeypad",
   "Name": "Boolean Keypad",
   "Origin": "Mods",

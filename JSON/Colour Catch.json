@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the colour that doesn't match. Tags: 5-panels, colours, needy",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "colourCatch",
   "Name": "Colour Catch",
   "Origin": "Mods",

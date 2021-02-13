@@ -9,6 +9,7 @@
   "ExpertDifficulty": "Medium",
   "Ignore": [ "+FullBoss" ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "blackArrowsModule",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Black Arrows",

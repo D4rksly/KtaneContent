@@ -27,6 +27,7 @@
     "Password"
   ],
   "IsSemiBoss": true,
+  "License": "OpenSource",
   "ModuleID": "qkButtonMesser",
   "MysteryModule": "RequiresAutoSolve",
   "Name": "Button Messer",

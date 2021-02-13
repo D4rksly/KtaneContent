@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Find out which buttons to press each stage by doing some math. Tags: simon, selection, math",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "simonSelectsModule",
   "Name": "Simon Selects",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Punch Deez Nuts!!! Tags: status-light, 4-buttons, labels",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "NeeDeezNuts",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "NeeDeez Nuts",

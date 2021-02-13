@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Alter the digits of three 7-digit numbers and determine the divisibility of the result. Tags: 3-numbers, white, blue, green, yellow, red, submit, 3-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "fizzBuzzModule",
   "Name": "FizzBuzz",
   "Origin": "Mods",

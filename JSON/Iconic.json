@@ -6,6 +6,7 @@
   "ExpertDifficulty": "VeryEasy",
   "Ignore": [ "+FullBoss" ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "iconic",
   "MysteryModule": "MustNotBeKey",
   "Name": "Iconic",

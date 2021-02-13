@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press a button at the right time according to a color displayed on the module. Tags: submit, 6-squares, 5-black-squares, small-medium-large, display, blinking",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "doubleColor",
   "Name": "Double Color",
   "Origin": "Mods",

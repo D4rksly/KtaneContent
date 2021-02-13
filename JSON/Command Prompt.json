@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Respond to the command given on screen with YES or NO. Tags: 2-buttons, yes, no, screen",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "KritCMDPrompt",
   "Name": "Command Prompt",
   "Origin": "Mods",

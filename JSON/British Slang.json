@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Identify the word from the definition one stage after it appears. Tags: britain, england, union-jack, union-flag, pins, cork-board, phrases",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "britishSlang",
   "Name": "British Slang",
   "Origin": "Mods",

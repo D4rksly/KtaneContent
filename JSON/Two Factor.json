@@ -2,6 +2,7 @@
   "Author": "Mock Army",
   "Compatibility": "Compatible",
   "Description": "Generates a random six-digit code every 60 seconds. Tags: edgework, display, number",
+  "License": "OpenSource",
   "ModuleID": "TwoFactorWidget",
   "Name": "Two Factor",
   "Origin": "Mods",

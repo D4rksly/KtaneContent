@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Press, hold, or release this hexagonal button at a certain time based on rules. Tags: hexagon, black-module",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "hexabutton",
   "Name": "The Hexabutton",
   "Origin": "Mods",

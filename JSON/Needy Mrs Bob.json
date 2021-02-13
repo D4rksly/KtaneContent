@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Respond to Mrs Bob with the correct emoji. Tags: iPhone, Phone, Mrs-Bob, Simon, iPad, emoji",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "needyMrsBob",
   "Name": "Needy Mrs Bob",
   "Origin": "Mods",

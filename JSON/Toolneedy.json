@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "A module designed for training purposes and provide several useful information. Tags: dot-matrix, dark-red",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "toolneedy",
   "Name": "Toolneedy",
   "Origin": "Mods",

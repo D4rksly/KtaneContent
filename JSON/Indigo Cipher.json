@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "A 3 step module using different ciphers. Tags: dark-blue, purple, indigo, qwerty-keyboard",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "indigoCipher",
   "Name": "Indigo Cipher",
   "Origin": "Mods",

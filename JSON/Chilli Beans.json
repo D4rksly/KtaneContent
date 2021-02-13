@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Eat three beans according to their values on a grid. Tags: beans, red-background",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "chilliBeans",
   "Name": "Chilli Beans",
   "Origin": "Mods",

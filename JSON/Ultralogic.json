@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Use the correct CS logic operators to make the equation valid.",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "Ultralogic",
   "Name": "Ultralogic",
   "Origin": "Mods",

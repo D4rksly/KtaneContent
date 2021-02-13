@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Read the situation in this fencing bout and hit the correct button(s) to score a point. Tags: action, match, weapons",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "fencing",
   "Name": "Fencing",
   "Origin": "Mods",

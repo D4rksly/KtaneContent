@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Examine pieces of ancient roman history and decide which to press and in what order. Tags: art, roman, numerals, display, 2-buttons",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "romanArtModule",
   "Name": "Roman Art",
   "Origin": "Mods",

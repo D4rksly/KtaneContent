@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Repeatedly roll the dice until a five-of-a-kind is achieved while avoiding certain invalid states. Tags: 5-dice, roll, green",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "YahtzeeModule",
   "Name": "Yahtzee",
   "Origin": "Mods",

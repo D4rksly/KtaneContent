@@ -7,6 +7,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press dirty sounding words in the correct order based on their commonly used counterparts. Tags: words, 6-buttons, tv, television",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "boobTubeModule",
   "Name": "Boob Tube",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "The module and the manual have swapped places. Tags: words, instructions, pages, query",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "roger",
   "Name": "Roger",
   "Origin": "Mods",

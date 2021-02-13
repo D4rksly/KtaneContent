@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Given the clues, deduce the locations of battleships in a grid. Tags: 5x5-grid, radar, water, torpedo",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "BattleshipModule",
   "Name": "Battleship",
   "Origin": "Mods",

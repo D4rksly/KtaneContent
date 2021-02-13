@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Play five consecutive hands of video poker using optimal strategy. tags: cards, game-info, speed, bet-one, bet-max, deal",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "videoPoker",
   "Name": "Video Poker",
   "Origin": "Mods",

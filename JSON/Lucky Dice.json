@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Select the only die that obeys its rules. Tags: 3-dice, die, roll",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "luckyDice",
   "Name": "Lucky Dice",
   "Origin": "Mods",

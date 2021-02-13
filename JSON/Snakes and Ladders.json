@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Deduce which square to click on to play the classic game of snakes and Ladders. Tags: 100-buttons, snakes-and-ladders",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "snakesAndLadders",
   "Name": "Snakes and Ladders",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Find the correct combination of valves using their materials. Tags: 3-buttons, metal",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "valves",
   "Name": "Valves",
   "Origin": "Mods",

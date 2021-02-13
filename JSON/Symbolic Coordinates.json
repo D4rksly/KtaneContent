@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Convert LEDs and Symbols to determine which coordinates to input. Tags: 2-up-arrows, 2-down-arrows, submit, 3-dots, 3-symbols",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "symbolicCoordinates",
   "Name": "Symbolic Coordinates",
   "Origin": "Mods",

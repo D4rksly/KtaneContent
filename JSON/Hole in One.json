@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Pick a club, ball, and swing power to achieve a hole in one! Tags: clubs, balls, swing power, golf.",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "HoleInOne",
   "Name": "Hole in One",
   "Origin": "Mods",
@@ -13,4 +14,4 @@
   "SteamID": "2320771148",
   "Symbol": "Hio",
   "Type": "Regular"
-} 
+}

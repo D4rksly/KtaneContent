@@ -5,6 +5,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Complete a puzzle inspired by \"The Witness\" game! Draw the correct line regarding the symbols present in the module. Tags: puzzle, witness, line, buttons, symbols",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "thewitness",
   "Name": "The Witness",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Use the ticket serial number to fill in the correct details for your European rail journey. Tags: bell, 5-circles, orange, price, seat",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "europeanTravel",
   "Name": "European Travel",
   "Origin": "Mods",

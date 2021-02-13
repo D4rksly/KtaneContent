@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press one of the four buttons based on the two-digit number in the display. Tags: 4-buttons",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "LetterKeys",
   "Name": "Letter Keys",
   "Origin": "Mods",

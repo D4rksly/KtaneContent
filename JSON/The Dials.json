@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Set all the dials to their correct positions based on their letters",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "TheDials",
   "Name": "The Dials",
   "Origin": "Mods",

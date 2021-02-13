@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Follow a flowchart while reading the colors off the module in a specific order. Tags: 4x4-grid, 4×4-grid, colors, colored-squares, 16-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "DecoloredSquaresModule",
   "Name": "Decolored Squares",
   "Origin": "Mods",

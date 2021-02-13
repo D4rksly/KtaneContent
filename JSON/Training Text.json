@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Identify a module from Mr. Porcu's training missions and submit a time to go practice it. Tags: clock, flavor-text, Porcu",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "TrainingText",
   "MysteryModule": "MustNotBeHidden",
   "Name": "Training Text",

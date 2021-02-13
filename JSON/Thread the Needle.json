@@ -7,6 +7,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Identify a set of code wheels, then align holes hidden inside them. Tags: five-displays, submit, ten-buttons",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "threadTheNeedle",
   "Name": "Thread the Needle",
   "Origin": "Mods",

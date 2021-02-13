@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Flip a coin and submit the correct side. Tags: Coin, Flip, Submit",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "KritFlipTheCoin",
   "Name": "Flip The Coin",
   "Origin": "Mods",

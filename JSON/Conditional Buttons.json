@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "6 colored buttons, and total of 10 possible colors. Each color has a condition attached to it. Press the correct buttons in the correct order and the module is disarmed. Tags: 6-buttons, colors",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "conditionalButtons",
   "Name": "Conditional Buttons",
   "Origin": "Mods",

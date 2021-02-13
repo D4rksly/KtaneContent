@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "A 3 step module using different ciphers. Tags: black, qwerty-keyboard",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "blackCipher",
   "Name": "Black Cipher",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Determine which yellow directional buttons to press using a rule table. Tags: yellow, arrows, rules, display, 4-buttons",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "yellowArrowsModule",
   "Name": "Yellow Arrows",
   "Origin": "Mods",

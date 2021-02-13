@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the correct digits and keep track of the directions. Tags: 5-digits, 3x3-grid, 3×3-grid, 5-buttons, red, green",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "navinums",
   "Name": "Navinums",
   "Origin": "Mods",

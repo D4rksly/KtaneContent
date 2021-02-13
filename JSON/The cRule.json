@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Find subsequent generations of a cellular automaton based off of the Rule 30 Chaos Machine using color addition. Tags: grid, cells, submit, 26-button, purple",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "the_cRule",
   "Name": "The cRule",
   "Origin": "Mods",

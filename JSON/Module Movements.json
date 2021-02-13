@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Evade your module captor with specific movements. Tags: movements, module, penguin",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "moduleMovements",
   "Name": "Module Movements",
   "Origin": "Mods",

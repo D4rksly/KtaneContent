@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Match the display on the module with the name of the picture. Tags: 3-buttons, 4-stages, picture",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "tams",
   "Name": "Totally Accurate Minecraft Simulator",
   "Origin": "Mods",

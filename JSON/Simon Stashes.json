@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Do some calculations, convert a number to binary, and then submit it. Tags: 5-buttons, gray, red, green, blue, magenta, cyan, yellow",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "simonStashes",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Simon Stashes",

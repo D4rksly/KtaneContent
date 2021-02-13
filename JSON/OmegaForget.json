@@ -9,6 +9,7 @@
   "ExpertDifficulty": "VeryHard",
   "Ignore": [ "+FullBoss" ],
   "IsFullBoss": true,
+  "License": "Restricted",
   "ModuleID": "omegaForget",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "OmegaForget",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Submit the character that is displayed in Morse Code. Tags: needy, morse, 2-displays, 3-buttons",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "lgndMorseIdentification",
   "Name": "Morse Identification",
   "Origin": "Mods",

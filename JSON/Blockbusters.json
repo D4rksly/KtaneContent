@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Find a way across the grid using only legal lettered tiles. Tags: letters, tiles, hexagons, grid, maze, honeycomb",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "blockbusters",
   "Name": "Blockbusters",
   "Origin": "Mods",

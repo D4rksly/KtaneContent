@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Calculate and input the correct sequence of moon pieces. Tags: 8-crescents, 8-semicircles, blue-module, circle",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "moon",
   "Name": "The Moon",
   "Origin": "Mods",

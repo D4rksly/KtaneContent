@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Type in a seven-letter word while racing against the car.",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "typeRacer",
   "Name": "Type Racer",
   "Origin": "Mods",

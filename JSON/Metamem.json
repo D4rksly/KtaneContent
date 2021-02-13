@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Submit a sequence of numbers based on the current numbers and the numbers displayed on previous appearances",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "metamem",
   "Name": "Metamem",
   "Origin": "Mods",

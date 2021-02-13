@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "A 3 step module using different ciphers. Tags: red, qwerty-keyboard",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "redCipher",
   "Name": "Red Cipher",
   "Origin": "Mods",

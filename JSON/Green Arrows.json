@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Determine which green directional button to press based on a number from a display. Tags: green, arrows, display, 4-buttons",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "greenArrowsModule",
   "Name": "Green Arrows",
   "Origin": "Mods",

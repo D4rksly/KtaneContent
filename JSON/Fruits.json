@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press a button labeled with a fruit a certain number of times. Tags: 5-buttons, orange, grapes, apple, banana",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "fruits",
   "Name": "Fruits",
   "Origin": "Mods",

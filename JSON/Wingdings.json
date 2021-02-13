@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Decipher a cryptic font quickly. Tags: 3-buttons, needy, display, wingdings",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "needyWingdings",
   "Name": "Wingdings",
   "Origin": "Mods",

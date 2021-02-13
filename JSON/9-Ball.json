@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Win a game of 9-Ball according to certain rules. Tags: balls, billiard, felt, green",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "GSNineBall",
   "Name": "9-Ball",
   "Origin": "Mods",

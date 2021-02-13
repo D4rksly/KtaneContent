@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Use the Collatz Conjecture to enter a code based on the two numbers given on the top and bottom. Tags: math, 9-buttons, 3-displays",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "IntegerTrees",
   "Name": "Integer Trees",
   "Origin": "Mods",

@@ -5,6 +5,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Win one round of Ultimate Tic Tac Toe against the bomb. Tags: 81-buttons, 9x9-grid, 9×9-grid, colors",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "ultimateTicTacToe",
   "Name": "Ultimate Tic Tac Toe",
   "Origin": "Mods",

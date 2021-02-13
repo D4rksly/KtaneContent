@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Change a painting by swapping certain colors for others. Tags: mondrian, 10-colors, splat, angular, lines, shapes, abstract, art",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "Painting",
   "Name": "Painting",
   "Origin": "Mods",

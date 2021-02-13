@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Decode ramzleglyphs to find out which button to press, four times.",
   "ExpertDifficulty": "Hard",
+  "License": "Restricted",
   "ModuleID": "ramboozledAgain",
   "Name": "Ramboozled Again",
   "Origin": "Mods",

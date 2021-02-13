@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Figure out what button has to pressed based on arrow directions and math. Tags: 25-buttons, arrows, math",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "blindArrows",
   "Name": "Blind Arrows",
   "Origin": "Mods",

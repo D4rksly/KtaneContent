@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "A 3 step module using different ciphers. Tags: purple, violet, qwerty-keyboard",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "violetCipher",
   "Name": "Violet Cipher",
   "Origin": "Mods",

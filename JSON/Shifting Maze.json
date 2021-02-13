@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Navigate your way to the exit of a maze that changes walls every time you move. Tags: maze, random, RNG",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "MazeShifting",
   "Name": "Shifting Maze",
   "Origin": "Mods",

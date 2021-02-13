@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Complete three steps consisting of button timing, Lights Out, and a password. tags: three-step, keypad, blue-module",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "ThreeCrypticSteps",
   "Name": "Three Cryptic Steps",
   "Origin": "Mods",

@@ -9,6 +9,7 @@
     "+SemiBoss"
   ],
   "IsSemiBoss": true,
+  "License": "OpenSource",
   "ModuleID": "DividedSquaresModule",
   "MysteryModule": "MustNotBeKey",
   "Name": "Divided Squares",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Navigate from one location to another in a 6×6 square maze. Tags: 2-green-circles, red-triangle, white-square, 6x6-grid, up-arrow, left-arrow, right-arrow, down-arrow",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "Maze",
   "Name": "Maze",
   "Origin": "Vanilla",

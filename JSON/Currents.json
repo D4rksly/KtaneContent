@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "A module about tracking boats through a water tower. #maze #math",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "Currents",
   "Name": "Currents",
   "Origin": "Mods",

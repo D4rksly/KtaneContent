@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Enter the correct response to an increasing sequence of color flashes. Tags: pentagon, 5-colors, red, green, yellow, blue, purple, 7-segment-display",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "simonsStar",
   "Name": "Simon's Star",
   "Origin": "Mods",

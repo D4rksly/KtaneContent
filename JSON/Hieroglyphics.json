@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Decipher a set of hieroglyphics to calculate a lock configuration and press a holy seal at the correct time. Tags: Egypt, Anubis, Horus, seal, sand",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "hieroglyphics",
   "Name": "Hieroglyphics",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Calculate hex codes with other hex codes within 3 stages to disarm the module. Tags: hex-code, rotated",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "regrettablerelay",
   "Name": "ReGrettaBle Relay",
   "Origin": "Mods",

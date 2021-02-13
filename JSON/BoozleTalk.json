@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Press the module at a certain time determined by the phrase shown in boozleglyphs. Tags: phrase, glyph, symbol",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "BoozleTalk",
   "Name": "BoozleTalk",
   "Origin": "Mods",

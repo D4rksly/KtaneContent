@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Translate a five-letter message by shifting the letters in the alphabet. Tags: 12-buttons, display, random",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "CaesarCipherModule",
   "Name": "Caesar Cipher",
   "Origin": "Mods",

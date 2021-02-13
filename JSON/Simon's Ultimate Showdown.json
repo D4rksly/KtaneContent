@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Determine a color sequence from a bunch of different \"simon\" modules to submit as it grows in length. Tags: 6-buttons, colors, simon, lights",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "simonsUltimateShowdownModule",
   "Name": "Simon's Ultimate Showdown",
   "Origin": "Mods",

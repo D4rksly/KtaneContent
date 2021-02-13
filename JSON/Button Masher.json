@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Press the button a specific number of times quickly. Tags: needy, display, button",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "buttonMasherNeedy",
   "Name": "Button Masher",
   "Origin": "Mods",

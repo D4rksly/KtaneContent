@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Determine the letters of Unown using their stats. Tags: unown, numbers, cipher",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "UnownCipher",
   "Name": "Unown Cipher",
   "Origin": "Mods",

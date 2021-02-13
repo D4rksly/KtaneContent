@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Follow a flowchart to concoct the best hangover elixir. Tags: wine, buttons, arrows, 3-screens, note-to-self",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "hangover",
   "Name": "The Hangover",
   "Origin": "Mods",

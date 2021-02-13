@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the letters of the word “UNRELATED” in a given order. Tags: keypad, 9-buttons, letters, undertale, unrelated",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "unrelatedAnagrams",
   "Name": "Unrelated Anagrams",
   "Origin": "Mods",

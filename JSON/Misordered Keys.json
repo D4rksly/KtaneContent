@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Press the six keys in order based on their colours, positions and numbers. Tags: 6-buttons, 6-colors, numbers",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "misorderedKeys",
   "Name": "Misordered Keys",
   "Origin": "Mods",

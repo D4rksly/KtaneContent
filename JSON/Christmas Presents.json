@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Calculate the compromise time for the K'Tane family to open their Christmas presents. Tags: christmas-tree, presents, festive, timer",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "christmasPresents",
   "Name": "Christmas Presents",
   "Origin": "Mods",

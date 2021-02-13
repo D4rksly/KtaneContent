@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Use the grid to find keys and the correct square to submit. Tags: grid, key, square",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "binaryGrid",
   "Name": "Binary Grid",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Go through each button's rule to determine if it needs to be pressed. However, if a keyword is encountered you may have to go back and press some more buttons. Tags: 13-buttons, 1-display",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "backButtonsModule",
   "Name": "Back Buttons",
   "Origin": "Mods",

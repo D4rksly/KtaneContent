@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press the button when timer displays 0. Tags: 1-button, traffic-light, go, wait",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "redLightGreenLight",
   "Name": "Red Light Green Light",
   "Origin": "Mods",

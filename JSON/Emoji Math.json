@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Decrypt a math problem encoded in emoji shapes. Tags: keypad, minus, equals, display, brackets, equals, colon",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "Emoji Math",
   "Name": "Emoji Math",
   "Origin": "Mods",

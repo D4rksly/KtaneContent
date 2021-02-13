@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "4x4 Game of Life you have to complete in 180 seconds. Tags: 4x4-grid, submit, reset",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "gameOfLifeNeedy",
   "Name": "Needy Game of Life",
   "Origin": "Mods",

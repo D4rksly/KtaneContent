@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Click the buttons before they reach zero. Click fast because this is cruel. Tags: 6-buttons, display, number, cruel",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "cruel10sec",
   "Name": "Cruel Ten Seconds",
   "Origin": "Mods",

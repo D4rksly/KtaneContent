@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Push the button. Tags: push, button",
   "ExpertDifficulty": "VeryEasy",
+  "License": "OpenSource",
   "ModuleID": "SimpleButton",
   "Name": "The Simpleton",
   "Origin": "Mods",

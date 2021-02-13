@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Find words in a Boggle board where the defuser cannot see all of the letters. Tags: 16-buttons, number, letters",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "boggle",
   "Name": "Boggle",
   "Origin": "Mods",

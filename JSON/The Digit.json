@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Calculate a digit to submit via the arrows and the screen. Tags: digit, up-button, down-button",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "TheDigitModule",
   "Name": "The Digit",
   "Origin": "Mods",

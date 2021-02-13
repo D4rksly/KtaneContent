@@ -5,13 +5,14 @@
     "Maintainer": [ "eXish" ],
     "Manual": [ "Asew54321" ],
     "Twitch Plays": [
-      "eXish", 
+      "eXish",
       "Red Penguin"
     ]
   },
   "DefuserDifficulty": "VeryEasy",
   "Description": "A module that forgets what it does. Tags: blank, empty, 9-buttons eventually",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "punctuationMarks",
   "Name": "...?",
   "Origin": "Mods",

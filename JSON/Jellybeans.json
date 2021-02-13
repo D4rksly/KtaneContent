@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Eat all possible jellybeans according to other jellybeans referring to them. Tags: beans, white-background",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "jellybeans",
   "Name": "Jellybeans",
   "Origin": "Mods",

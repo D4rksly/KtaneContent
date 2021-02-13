@@ -10,6 +10,7 @@
     "+FullBoss"
   ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "simonForgets",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Simon Forgets",

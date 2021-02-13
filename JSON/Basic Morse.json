@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Decipher a word encrypted in Morse which is encrypted in ternary which is converted to other bases",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "BasicMorse",
   "Name": "Basic Morse",
   "Origin": "Mods",

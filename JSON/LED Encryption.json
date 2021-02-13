@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Determine which letters match up in pairs. Potentially involves multiplying two-digit numbers under modulo 26. Tags: 4-buttons, white-strip, colored-squares, digit",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "LEDEnc",
   "Name": "LED Encryption",
   "Origin": "Mods",

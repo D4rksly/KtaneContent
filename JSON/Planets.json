@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Identify the planet and use maths to calculate the solution. Tags: planet, 12-buttons, colors, colours, 5-leds, space",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "planets",
   "Name": "Planets",
   "Origin": "Mods",

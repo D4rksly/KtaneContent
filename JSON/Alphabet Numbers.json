@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Bring a series of numbers into alphabetical order according to their English name. Tags: circle, 6-numbers, 4-segments",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "alphabetNumbers",
   "Name": "Alphabet Numbers",
   "Origin": "Mods",

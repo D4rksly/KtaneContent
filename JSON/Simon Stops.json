@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Hard",
   "Description": "Translate the module's output to input, and make an additional input when the module stops. Tags: 6-buttons, leds, lights, colors, stop, simon, sounds, tones",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "simonStops",
   "Name": "Simon Stops",
   "Origin": "Mods",

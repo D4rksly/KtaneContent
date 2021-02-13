@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Press three vinyl buttons for three lyrics appear in the order they appear in a festive song. Tags: jukebox, Christmas, festive, records, vinyl, lyrics",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "festiveJukebox",
   "Name": "The Festive Jukebox",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Sort a shuffled string of ten characters within the allotted time. Tags: characters, needy, order",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "shuffledStrings",
   "Name": "Shuffled Strings",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Select the correct retirement home for Bob. Tags: house, home, retire, sunny",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "retirement",
   "Name": "Retirement",
   "Origin": "Mods",

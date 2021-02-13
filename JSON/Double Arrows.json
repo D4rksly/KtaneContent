@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Navigate your way through a grid of numbers using a set of somewhat unreliable buttons. Tags: 8-arrows, black-button.",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "doubleArrows",
   "Name": "Double Arrows",
   "Origin": "Mods",

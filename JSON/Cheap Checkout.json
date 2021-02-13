@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Calculate the amount due for a list of grocery shopping items and return the correct change. Tags: money, currency, dollar, submit, clear, left, right, 8-buttons, 12-buttons",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "CheapCheckoutModule",
   "Name": "Cheap Checkout",
   "Origin": "Mods",

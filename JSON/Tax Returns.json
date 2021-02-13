@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Calculate and file your UK tax return. Tags: money, pounds, expenses, turnover, switch, q1",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "taxReturns",
   "MysteryModule": "MustNotBeHidden",
   "Name": "Tax Returns",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Give a customer the amount of Chicken Nuggets he wants with packs of 6, 9, and 20. Tags: 3-buttons, restaurant, mcdonalds, food",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "ChickenNuggets",
   "Name": "Chicken Nuggets",
   "Origin": "Mods",

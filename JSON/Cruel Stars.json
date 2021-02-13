@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Enter the correct string of numbers.",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "cruelStars",
   "Name": "Cruel Stars",
   "Origin": "Mods",

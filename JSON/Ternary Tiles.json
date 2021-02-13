@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Input a specific pattern according to a base pattern and an indicator. Tags: cyan, 4 by 3, 0, 1, 2, submit, screen",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "GSTernaryTiles",
   "Name": "Ternary Tiles",
   "Origin": "Mods",

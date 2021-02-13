@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Perform a simple decimal to binary conversion and submit using color-coded buttons.",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "popufur",
   "Name": "Popufur",
   "Origin": "Mods",

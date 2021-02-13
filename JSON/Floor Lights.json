@@ -6,6 +6,7 @@
   "ExpertDifficulty": "Hard",
   "Ignore": [ "+FullBoss" ],
   "IsFullBoss": true,
+  "License": "OpenSource",
   "ModuleID": "FloorLights",
   "MysteryModule": "MustNotBeHiddenOrKey",
   "Name": "Floor Lights",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Complete 3 short mini-puzzles while balancing the time banked to solve them. Tags: static, timer",
   "ExpertDifficulty": "Easy",
+  "License": "Restricted",
   "ModuleID": "numberNimbleness",
   "Name": "Number Nimbleness",
   "Origin": "Mods",

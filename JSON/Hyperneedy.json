@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryHard",
   "Description": "Identify the rotation of a tesseract, without edges. Tags: 5-buttons, hypercube, 16-floating-discs, octagonal-button",
   "ExpertDifficulty": "VeryHard",
+  "License": "OpenSource",
   "ModuleID": "hyperneedy",
   "Name": "Hyperneedy",
   "Origin": "Mods",

@@ -2,6 +2,7 @@
   "Author": "Steel Crate Games",
   "Compatibility": "Compatible",
   "Description": "Port panels containing digital and analog ports. Tags: edgework, casing, plate",
+  "License": "Restricted",
   "ModuleID": "PortWidget",
   "Name": "Ports",
   "Origin": "Vanilla",

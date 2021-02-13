@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Use a 7-way Venn diagram to decide on which flowers to select. Tags: 15-buttons, colors",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "flowerPatch",
   "Name": "Flower Patch",
   "Origin": "Mods",

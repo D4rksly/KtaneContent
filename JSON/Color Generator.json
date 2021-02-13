@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Input a combination of red, green and blue to solve the module. Tags: hash, pound, 6-0s, 3-squares, 3-rectangles",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "Color Generator",
   "Name": "Color Generator",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Medium",
   "Description": "Use the concept if vectors to figure out how long to hold a button for. Tags: vectors, button, hold, math, 3D",
   "ExpertDifficulty": "Medium",
+  "License": "OpenSource",
   "ModuleID": "vectorsModule",
   "MysteryModule": "MustNotBeKey",
   "Name": "Vectors",

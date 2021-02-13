@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Determine a duck's personality, then approach it and touch a part of it. Tags: duck, quack, curtains",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "theDuck",
   "Name": "The Duck",
   "Origin": "Mods",

@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Identify the order of colours and digits in a code. Tags: digits, colors, colours, code",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "colourcode",
   "MysteryModule": "MustNotBeKey",
   "Name": "Colour Code",

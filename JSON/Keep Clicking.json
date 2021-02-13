@@ -4,6 +4,7 @@
   "DefuserDifficulty": "Easy",
   "Description": "Continue pressing buttons until they have valid symbols. Tags: 3-buttons, submit",
   "ExpertDifficulty": "Easy",
+  "License": "OpenSource",
   "ModuleID": "keepClicking",
   "Name": "Keep Clicking",
   "Origin": "Mods",

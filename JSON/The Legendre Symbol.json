@@ -4,6 +4,7 @@
   "DefuserDifficulty": "VeryEasy",
   "Description": "Calculate the value of a number-theoretic function. Tags: 2-buttons, 3-digit-displays, fraction, parentheses",
   "ExpertDifficulty": "Hard",
+  "License": "OpenSource",
   "ModuleID": "legendreSymbol",
   "Name": "The Legendre Symbol",
   "Origin": "Mods",
